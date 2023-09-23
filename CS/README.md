@@ -4,6 +4,7 @@
 
 - [KMP 알고리즘, 기초, String Matching](https://www.youtube.com/watch?v=UcjK_k5PLHI)
 - [선형 점화식의 n번째 항을 빠르게 구하는 방법](https://algoshitpo.github.io/2020/05/20/linear-recurrence)
+- [로드 밸런싱 알고리즘 시각화](https://samwho.dev/load-balancing/)
 
 ## 데이터베이스 DB
 
