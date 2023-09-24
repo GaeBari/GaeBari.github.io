@@ -20,6 +20,7 @@
 - [Apache HTTP Server? Apache Tomcat? 서버 바로 알기](https://tecoble.techcourse.co.kr/post/2021-05-24-apache-tomcat)
 - [Apache Kafka는 어떤 방식으로 동작할까?](https://junghyungil.tistory.com/m/190)
 - [의존성 캐시로 Github Actions 속도 높이기](https://sinwoobang.notion.site/Github-Actions-7ca7c1ddf2f74d24ab9173d1b5c97366)
+- [신뢰성 있는 카프카 애플리케이션을 만드는 3가지 방법](https://youtu.be/7_VdIFH6M6Q?si=-DI1CaX6Z1b0AKFJ)
 
 ## AWS
 
