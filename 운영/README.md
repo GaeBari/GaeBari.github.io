@@ -40,7 +40,7 @@
 - [AWS 아키텍처 다이어그램 제작 사이트](https://www.cloudcraft.co)
 - [Serverless 아키텍처에서 S3로 파일 업로드/다운로드 총 정리!](https://www.youtube.com/watch?v=f9LZWCSgojE)
 
-# Observability
+## Observability
 
 - [로그 및 SQL 진입점 정보 추가 여정](https://techblog.woowahan.com/13429/?fbclid=IwAR21CVpCYZwGvhr50rHKazhOkKg5GLTrjqedDCI8A2Vby9OfDkzeIqHRMWo)
 - [토스ㅣSLASH 23 - 분산 추적 체계 & 로그 중심으로 Observability 확보하기](https://www.youtube.com/watch?v=Ifz0LsfAG94)
