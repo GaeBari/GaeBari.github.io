@@ -4,7 +4,7 @@
 
 <div align=center>
   <a href="https://github.com/GaeBari/archive/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=GaeBari/archive" />
+    <img src="https://contrib.rocks/image?repo=GaeBari/GaeBari.github.io" />
   </a>
 </div>
 
