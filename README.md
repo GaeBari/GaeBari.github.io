@@ -4,16 +4,13 @@
 
 <div align=center>
   <a href="https://github.com/GaeBari/archive/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=GaeBari/archive" />
+    <img src="https://contrib.rocks/image?repo=GaeBari/GaeBari.github.io" />
   </a>
 </div>
 
-# 기여 방법
+# 📗기여 방법
 
-1. 이 저장소를 Fork합니다.
-2. 본인의 Fork된 저장소에서 변경사항을 커밋합니다.
-3. 원본 저장소에 Pull Request를 생성합니다.
-4. 1명 이상의 관리자가 리뷰를 통해 승인하면 원본 저장소에 반영됩니다.
+[해당 문서](/CONTRIBUTING.md)를 참고해주세요!
 
 # 카테고리
 
