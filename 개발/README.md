@@ -2,6 +2,11 @@
 
 ## 프론트엔드 / 웹
 
+- [React Router Dom 동적으로 분기처리 하기](https://tech.kakao.com/2022/07/13/active-routing-for-e-certificate/)
+- [세 가지 아키텍처에서의 리액트 Suspense](https://velog.io/@lky5697/suspense-in-different-architectures)
+- [실용적인 프론트엔드 테스트 전략 (1)](https://meetup.nhncloud.com/posts/174)
+- [실용적인 프론트엔드 테스트 전략 (2)](https://meetup.nhncloud.com/posts/178)
+- [실용적인 프론트엔드 테스트 전략 (3)](https://meetup.nhncloud.com/posts/180)
 - [(번역) 이상한 자바스크립트: 왜 every()는 빈 배열에 true를 반환할까?](https://naver.me/53U2spCH)
 - [(번역) 웹 성능을 개선하기 위한 세 가지 큰 수단에 대한 레이아웃 위치의 영향](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%9B%B9-%EC%84%B1%EB%8A%A5%EC%9D%84-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%84%B8-%EA%B0%80%EC%A7%80-%ED%81%B0-%EC%88%98%EB%8B%A8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%9C%84%EC%B9%98%EC%9D%98-%EC%98%81%ED%96%A5-a9c021869d4a)
 - [모던 바닐라 자바스크립트로 본 반응성을 구현하는 패턴](https://ktseo41.github.io/blog/log/patterns-for-reactivity-with-modern-vanilla-javascript.html)
