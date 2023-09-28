@@ -23,6 +23,20 @@
 - [프론트엔드 모노레포 TBD로 관리하기](https://blog.mathpresso.com/qanda-frontend-monorepo-with-tbd-af752314d30f)
 - [좋은 API Response Body 만들기](https://jojoldu.tistory.com/720)
 
+#### NextJS
+
+- [NextJS 13.3 변경점](https://velog.io/@jay/Next.js-13.3)
+- [프로젝트 설치 및 실행](https://velog.io/@jay/Next.js-13-master-course-project-setting)
+- [routing 1](https://velog.io/@jay/Next.js-13-master-course-routing)
+- [routing 2](https://velog.io/@jay/Next.js-13-master-course-routing-2)
+- [routing 3](https://velog.io/@jay/Next.js-13-master-course-routing-3)
+- [Skeleton & Error UI](https://velog.io/@jay/Next.js-13-master-course-loading-error-UI)
+- [Router Handler](https://velog.io/@jay/Next.js-13-master-course-router-handler)
+- [Middleware](https://velog.io/@jay/Next.js-13-master-course-middleware)
+- [Static / Dynamic Rendering](https://velog.io/@jay/Next.js-13-master-course-Static-Dynamic-Rendering)
+- [Data Fetching](https://velog.io/@jay/Next.js-13-master-course-Data-Fetching)
+- [GlobalCSS](https://velog.io/@jay/Next.js-13-master-course-Styling)
+
 ## Java
 
 - [Spring 무한스크롤 구현 (1) - 커서 기반 페이지네이션](https://www.devjoon.com/41)
