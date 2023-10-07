@@ -54,8 +54,10 @@
 
 - [고성능 ML 백엔드를 위한 10가지 Python 성능 최적화 팁](https://hyperconnect.github.io/2023/05/30/Python-Performance-Tips.html)
 - [Python Ray 사용법 - Python 병렬처리, 분산처리](https://zzsza.github.io/mlops/2021/01/03/python-ray)
-- [FastAPI 한줄씩 따라읽기](https://rumbarum.oopy.io/post/examine-fastapi-handling-request-line-by-line-with-comment)
 - [파이썬을 처음 사용하는 동료와 효율적으로 일하는 방법](https://medium.com/daangn/파이썬을-처음-사용하는-동료와-효율적으로-일하는-방법-bb52c3a433fa)
+- [FastAPI 한줄씩 따라읽기](https://rumbarum.oopy.io/post/examine-fastapi-handling-request-line-by-line-with-comment)
+- [FastAPI Depends 톺아보기](https://rumbarum.oopy.io/post/how-fastapi-depends-work)
+- [ExceptionGroup and except*(PEP-654) 파보기 Feat. TaskGroup](https://rumbarum.oopy.io/post/python-exception-group)
 
 ## Go
 
@@ -64,7 +66,7 @@
 - [Go 언어를 써보고 싶지만 망설이는 당신에게, 카카오엔터프라이즈 개발자 이호민](https://blog.goorm.io/hominlee)
 - [Go 언어의 GC에 대해 - 라인](https://engineering.linecorp.com/ko/blog/go-gc?fbclid=IwAR3n-6l4p2MToOZw-b2eROdbBRA9SOn4ENPpgEXz-jSSsiASrXRGDm94mhk)
 - [(번역) Go 작업훔치기 스케줄러](https://hueypark.gitlab.io/post/2018-10-13-go-work-stealing-scheduler)
-- [- [Go] 바이너리 크기 최적화](https://blog.naver.com/sssang97/223158138032)
+- [Go 바이너리 크기 최적화](https://blog.naver.com/sssang97/223158138032)
 
 ## 플러터
 
