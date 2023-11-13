@@ -24,6 +24,7 @@
 - [좋은 API Response Body 만들기](https://jojoldu.tistory.com/720)
 - [NextJS 13.3 변경점](https://velog.io/@jay/Next.js-13.3)
 - [NextJS 13 Master course](https://velog.io/@jay/series/nextjs13-master-course)
+- [(번역) Next.js에서 패키지 가져오기를 최적화한 방법](https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js?utm_source=substack&utm_medium=email)
 
 ## Java
 
@@ -63,3 +64,4 @@
 ## 언어 비교
 
 - [‘Node.js’ VS ‘Java Spring’](https://medium.com/naverfinancial/node-js-vs-java-spring-c4699565918e)
+
