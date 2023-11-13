@@ -26,6 +26,7 @@
 - [Migrating from Legacy with Ease, a.k.a. Cilium in Openstack and More](https://youtu.be/9_hEEk3vUW8?si=tfQH1HcDQgepKr4z)
 - [NATS로 알아보는 MSA의 message broker 아키텍처](https://medium.com/microservices-learning/building-a-microservices-architecture-with-nats-59fc8a4f331e)
 - [100개의 micro service를 ArgoCD를 이용하여 하나의 클러스터에 배포하기](https://medium.com/@makdeniz_38312/how-to-deploy-100-microservices-into-1-cluster-with-argocd-38fbb00a9e64)
+- [쿠버네티스 1.28의 특징: Containers, Jobs, and Proxies](https://medium.com/@seifeddinerajhi/kubernetes-1-28-new-features-for-sidecar-containers-jobs-and-proxies-1c30315243e9)
 
 ## AWS
 
