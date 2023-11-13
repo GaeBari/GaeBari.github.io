@@ -58,6 +58,7 @@
 - [Go 언어의 GC에 대해 - 라인](https://engineering.linecorp.com/ko/blog/go-gc?fbclid=IwAR3n-6l4p2MToOZw-b2eROdbBRA9SOn4ENPpgEXz-jSSsiASrXRGDm94mhk)
 - [(번역) Go 작업훔치기 스케줄러](https://hueypark.gitlab.io/post/2018-10-13-go-work-stealing-scheduler)
 - [Go 바이너리 크기 최적화](https://blog.naver.com/sssang97/223158138032)
+- [go에서 DTO쓰지 마세요](https://medium.com/@dsysd-dev/stop-using-dtos-in-go-its-not-java-96ef4794481a)
 
 ## 플러터
 
