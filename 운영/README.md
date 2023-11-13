@@ -27,6 +27,7 @@
 - [NATS로 알아보는 MSA의 message broker 아키텍처](https://medium.com/microservices-learning/building-a-microservices-architecture-with-nats-59fc8a4f331e)
 - [100개의 micro service를 ArgoCD를 이용하여 하나의 클러스터에 배포하기](https://medium.com/@makdeniz_38312/how-to-deploy-100-microservices-into-1-cluster-with-argocd-38fbb00a9e64)
 - [쿠버네티스 1.28의 특징: Containers, Jobs, and Proxies](https://medium.com/@seifeddinerajhi/kubernetes-1-28-new-features-for-sidecar-containers-jobs-and-proxies-1c30315243e9)
+- [Elasticsearch 대용량 데이터 최적화](https://medium.com/@yannvds/optimizing-elasticsearch-for-high-volume-data-ingestion-a-use-case-at-exfo-2280139ee574?source=email-619cbfeff5b0-1694281392009-digest.reader--2280139ee574----4-98------------------274a0b35_9364_4fc9_ba16_bb41b88943c8-1)
 
 ## AWS
 
