@@ -29,6 +29,7 @@
 - [쿠버네티스 1.28의 특징: Containers, Jobs, and Proxies](https://medium.com/@seifeddinerajhi/kubernetes-1-28-new-features-for-sidecar-containers-jobs-and-proxies-1c30315243e9)
 - [Elasticsearch 대용량 데이터 최적화](https://medium.com/@yannvds/optimizing-elasticsearch-for-high-volume-data-ingestion-a-use-case-at-exfo-2280139ee574?source=email-619cbfeff5b0-1694281392009-digest.reader--2280139ee574----4-98------------------274a0b35_9364_4fc9_ba16_bb41b88943c8-1)
 - [kafka, zookeeper, replication](https://medium.com/@0joon/%EB%8B%B9%EC%8B%A0%EC%9D%80-kafka%EB%A5%BC-%EB%AF%BF%EC%8A%B5%EB%8B%88%EA%B9%8C-kafka%EC%99%80-zookeeper-%EA%B7%B8%EB%A6%AC%EA%B3%A0-replication-d0c396314b9a)
+- [kafka schema registry와 protocol buffer](https://medium.com/@ninucium/is-using-kafka-with-schema-registry-and-protobuf-worth-it-part-1-1c4a9995a5d3)
 
 ## AWS
 
