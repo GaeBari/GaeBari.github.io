@@ -7,6 +7,7 @@
 - [The XY Problem (더 좋은 질문을 하는 방법)](https://ahnheejong.name/articles/the-xy-problem)
 - [제품 중심 개발자 (번역)](https://www.jobless.blog/product-minded-engineer/?ref=k3)
 - [면접관 관점에서 본 좋은 개발자 블로그](https://f-lab.kr/blog/developer-blog-tips)
+- [훌륭한 팀원의 조건](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%A1%B0%EA%B1%B4-strong-views-weakly-held-17880611d962)
 
 ## 미분류
 
@@ -16,3 +17,4 @@
 - [좋은 객체 ID(Object ID) 만들기 - 토스페이먼츠](https://yozm.wishket.com/magazine/detail/2161/?fbclid=IwAR2XPUZhLAgG-6VGDywbWDi8lyXX9Wexbdb6kYb8kotLN_8tfWwA5aRf8bs)
 - [좋은 예외(Exception) 처리](https://jojoldu.tistory.com/734)
 - [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기](https://blog.banksalad.com/tech/url-status-checker)
+
