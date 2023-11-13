@@ -18,4 +18,5 @@
 - [좋은 객체 ID(Object ID) 만들기 - 토스페이먼츠](https://yozm.wishket.com/magazine/detail/2161/?fbclid=IwAR2XPUZhLAgG-6VGDywbWDi8lyXX9Wexbdb6kYb8kotLN_8tfWwA5aRf8bs)
 - [좋은 예외(Exception) 처리](https://jojoldu.tistory.com/734)
 - [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기](https://blog.banksalad.com/tech/url-status-checker)
+- [[카카오테크]오픈소스 라이선스 변화의 흐름](https://tech.kakao.com/2021/09/08/opensource-license)
 
