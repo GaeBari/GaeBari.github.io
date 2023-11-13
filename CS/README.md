@@ -13,6 +13,7 @@
 - [DB에서 Join 쿼리로 데이터 조회하기 vs 각각 쿼리로 조회해서 Application Join하기](https://f-lab.kr/blog/which-layer-join-query)
 - [MySQL InnoDB lock & deadlock 이해하기](https://www.letmecompile.com/mysql-innodb-lock-deadlock)
 - [MySQL에서 ‘a’ = ‘a ‘가 true로 평가된다? - 우아한기술블로그](https://techblog.woowahan.com/2559)
+- [실시간 복제 데이터를 이관시키는 방법 (DynamoDB -> PostgreSQL)](https://medium.com/stayge-labs/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%9D%B4%EA%B4%80%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95-498d3d52c8b4)
 
 ## 네트워크
 
@@ -39,3 +40,4 @@
 ## 디자인패턴
 
 [(번역) 우리들을 위한 디자인 패턴](https://soobing.github.io/cs/design-patterns-for-humans)
+
