@@ -24,6 +24,7 @@
 - [[NHN FORWARD 22] K8s 도입하면서 겪은 일들](https://www.youtube.com/watch?v=JBGsqsoGxEo)
 - [쿠버네티스 기반 게임 서버 AGONES](https://gc.hosting.kr/blog-serverless-agnoes/)
 - [Migrating from Legacy with Ease, a.k.a. Cilium in Openstack and More](https://youtu.be/9_hEEk3vUW8?si=tfQH1HcDQgepKr4z)
+- [NATS로 알아보는 MSA의 message broker 아키텍처](https://medium.com/microservices-learning/building-a-microservices-architecture-with-nats-59fc8a4f331e)
 
 ## AWS
 
