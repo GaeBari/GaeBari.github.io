@@ -28,6 +28,7 @@
 - [[Kakao] 컴포넌트 복잡도 관리하기(IoC, 합성 컴포넌트, 팩토리)](https://fe-developers.kakaoent.com/2022/221110-ioc-pattern/)
 - [[테코톡] 컴포넌트 IoC패턴(복잡도 관리)](https://www.youtube.com/watch?v=RNH1KN2pD2Y)
 - [[카카오테크]주니어 개발자의 우여곡절 소셜로그인 도입 과정](https://tech.kakao.com/2023/01/19/social-login)
+- [당근 리브랜딩 캠페인 페이지를 개발하며 배운 것](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%A6%AC%EB%B8%8C%EB%9E%9C%EB%94%A9-%EC%BA%A0%ED%8E%98%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83-b41d866df9b7)
 
 ## Java
 
