@@ -9,6 +9,7 @@
 - [면접관 관점에서 본 좋은 개발자 블로그](https://f-lab.kr/blog/developer-blog-tips)
 - [훌륭한 팀원의 조건](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%A1%B0%EA%B1%B4-strong-views-weakly-held-17880611d962)
 - [언젠가 빛날 주니어들에게](https://medium.com/@totuworld/%EC%96%B8%EC%A0%9C%EA%B0%80-%EB%B9%9B%EB%82%A0-%EC%A3%BC%EB%8B%88%EC%96%B4%EB%93%A4%EC%97%90%EA%B2%8C-10b4baa281ad)
+- [채용 우대사항에 있는 기술을 써도 회사에 떨어지는 이유](https://f-lab.kr/blog/why-drop-me-for-preparing-a-lot)
 
 ## 미분류
 
