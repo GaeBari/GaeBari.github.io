@@ -19,4 +19,5 @@
 - [좋은 예외(Exception) 처리](https://jojoldu.tistory.com/734)
 - [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기](https://blog.banksalad.com/tech/url-status-checker)
 - [[카카오테크]오픈소스 라이선스 변화의 흐름](https://tech.kakao.com/2021/09/08/opensource-license)
+- [배달의민족의 지리 체계를 뒤흔들다](https://techblog.woowahan.com/11238/)
 
