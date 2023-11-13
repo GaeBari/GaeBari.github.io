@@ -1,0 +1,48 @@
+name: Add new post
+
+on:
+  workflow_dispatch:
+    inputs:
+      title:
+        description: "Title of the post"
+        required: true
+      link:
+        description: "Link of the post"
+        required: true
+      category:
+        description: "Category of the post"
+        required: true
+      subcategory:
+        description: "Subcategory of the post"
+        required: true
+      author:
+        description: "Author of the post"
+        required: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.10"
+
+      - name: Update Markdown
+        run: |
+          ls -R
+          python add_post.py "${{ inputs.title }}" "${{ inputs.link }}" "${{ inputs.category }}" "${{ inputs.subcategory }}" "${{ inputs.subcategory }}"
+
+      - name: Commit changes
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git add .
+          git commit -m "📝 ${{ inputs.title }} by ${{ inputs.author }}" || exit 0
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
