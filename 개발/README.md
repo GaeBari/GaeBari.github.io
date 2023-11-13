@@ -59,6 +59,7 @@
 - [(번역) Go 작업훔치기 스케줄러](https://hueypark.gitlab.io/post/2018-10-13-go-work-stealing-scheduler)
 - [Go 바이너리 크기 최적화](https://blog.naver.com/sssang97/223158138032)
 - [go에서 DTO쓰지 마세요](https://medium.com/@dsysd-dev/stop-using-dtos-in-go-its-not-java-96ef4794481a)
+- [Cancellation pattern 구현](https://medium.com/@alireza.stack/cancellation-pattern-implementation-in-go-179706ae772b)
 
 ## 플러터
 
