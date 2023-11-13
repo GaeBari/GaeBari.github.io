@@ -22,20 +22,8 @@
 - [프론트엔드 에러 로그 시스템 Sentry 적용기](https://urbanbase.github.io/dev/2021/03/04/Sentry.html)
 - [프론트엔드 모노레포 TBD로 관리하기](https://blog.mathpresso.com/qanda-frontend-monorepo-with-tbd-af752314d30f)
 - [좋은 API Response Body 만들기](https://jojoldu.tistory.com/720)
-
-#### NextJS
-
 - [NextJS 13.3 변경점](https://velog.io/@jay/Next.js-13.3)
-- [프로젝트 설치 및 실행](https://velog.io/@jay/Next.js-13-master-course-project-setting)
-- [routing 1](https://velog.io/@jay/Next.js-13-master-course-routing)
-- [routing 2](https://velog.io/@jay/Next.js-13-master-course-routing-2)
-- [routing 3](https://velog.io/@jay/Next.js-13-master-course-routing-3)
-- [Skeleton & Error UI](https://velog.io/@jay/Next.js-13-master-course-loading-error-UI)
-- [Router Handler](https://velog.io/@jay/Next.js-13-master-course-router-handler)
-- [Middleware](https://velog.io/@jay/Next.js-13-master-course-middleware)
-- [Static / Dynamic Rendering](https://velog.io/@jay/Next.js-13-master-course-Static-Dynamic-Rendering)
-- [Data Fetching](https://velog.io/@jay/Next.js-13-master-course-Data-Fetching)
-- [GlobalCSS](https://velog.io/@jay/Next.js-13-master-course-Styling)
+- [NextJS 13 Master course](https://velog.io/@jay/series/nextjs13-master-course)
 
 ## Java
 
@@ -57,7 +45,7 @@
 - [파이썬을 처음 사용하는 동료와 효율적으로 일하는 방법](https://medium.com/daangn/파이썬을-처음-사용하는-동료와-효율적으로-일하는-방법-bb52c3a433fa)
 - [FastAPI 한줄씩 따라읽기](https://rumbarum.oopy.io/post/examine-fastapi-handling-request-line-by-line-with-comment)
 - [FastAPI Depends 톺아보기](https://rumbarum.oopy.io/post/how-fastapi-depends-work)
-- [ExceptionGroup and except*(PEP-654) 파보기 Feat. TaskGroup](https://rumbarum.oopy.io/post/python-exception-group)
+- [ExceptionGroup and except\*(PEP-654) 파보기 Feat. TaskGroup](https://rumbarum.oopy.io/post/python-exception-group)
 
 ## Go
 
