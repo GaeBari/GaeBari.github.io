@@ -21,6 +21,7 @@
 - [Apache Kafka는 어떤 방식으로 동작할까?](https://junghyungil.tistory.com/m/190)
 - [의존성 캐시로 Github Actions 속도 높이기](https://sinwoobang.notion.site/Github-Actions-7ca7c1ddf2f74d24ab9173d1b5c97366)
 - [신뢰성 있는 카프카 애플리케이션을 만드는 3가지 방법](https://youtu.be/7_VdIFH6M6Q?si=-DI1CaX6Z1b0AKFJ)
+- [[NHN FORWARD 22] K8s 도입하면서 겪은 일들](https://www.youtube.com/watch?v=JBGsqsoGxEo)
 
 ## AWS
 
@@ -45,3 +46,4 @@
 - [로그 및 SQL 진입점 정보 추가 여정](https://techblog.woowahan.com/13429/?fbclid=IwAR21CVpCYZwGvhr50rHKazhOkKg5GLTrjqedDCI8A2Vby9OfDkzeIqHRMWo)
 - [토스ㅣSLASH 23 - 분산 추적 체계 & 로그 중심으로 Observability 확보하기](https://www.youtube.com/watch?v=Ifz0LsfAG94)
 - [소프트웨어 엔지니어가 알아야 할 로그에 대한 모든 것](https://medium.com/rate-labs/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%A8%EB%93%A0-%EA%B2%83-11513af8b998)
+
