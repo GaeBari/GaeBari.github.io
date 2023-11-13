@@ -25,6 +25,7 @@
 - [NextJS 13.3 변경점](https://velog.io/@jay/Next.js-13.3)
 - [NextJS 13 Master course](https://velog.io/@jay/series/nextjs13-master-course)
 - [(번역) Next.js에서 패키지 가져오기를 최적화한 방법](https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js?utm_source=substack&utm_medium=email)
+- [[Kakao] 컴포넌트 복잡도 관리하기(IoC, 합성 컴포넌트, 팩토리)](https://fe-developers.kakaoent.com/2022/221110-ioc-pattern/)
 
 ## Java
 
