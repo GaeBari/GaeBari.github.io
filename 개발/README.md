@@ -27,6 +27,7 @@
 - [(번역) Next.js에서 패키지 가져오기를 최적화한 방법](https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js?utm_source=substack&utm_medium=email)
 - [[Kakao] 컴포넌트 복잡도 관리하기(IoC, 합성 컴포넌트, 팩토리)](https://fe-developers.kakaoent.com/2022/221110-ioc-pattern/)
 - [[테코톡] 컴포넌트 IoC패턴(복잡도 관리)](https://www.youtube.com/watch?v=RNH1KN2pD2Y)
+- [[카카오테크]주니어 개발자의 우여곡절 소셜로그인 도입 과정](https://tech.kakao.com/2023/01/19/social-login)
 
 ## Java
 
