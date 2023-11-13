@@ -22,6 +22,7 @@
 - [TCP/UDP와 3 -Way Handshake & 4 -Way Handshake](https://velog.io/@averycode/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-TCPUDP%EC%99%80-3-Way-Handshake4-Way-Handshake)
 - [네트워크 기초(개정판) - 따라하면서 배우는 IT](https://www.youtube.com/playlist?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi)
 - [컴퓨터네트워크 제19강 TCP 혼잡 제어(Congestion Control)](https://www.youtube.com/watch?v=R2dWNQTABcI)
+- [OAuth 2.0 동작 원리 알아보기](https://kimyc1223.github.io/blog/2023/09/25/TechPost.html)
 
 ## Test
 
