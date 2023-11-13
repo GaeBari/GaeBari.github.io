@@ -22,6 +22,7 @@
 - [의존성 캐시로 Github Actions 속도 높이기](https://sinwoobang.notion.site/Github-Actions-7ca7c1ddf2f74d24ab9173d1b5c97366)
 - [신뢰성 있는 카프카 애플리케이션을 만드는 3가지 방법](https://youtu.be/7_VdIFH6M6Q?si=-DI1CaX6Z1b0AKFJ)
 - [[NHN FORWARD 22] K8s 도입하면서 겪은 일들](https://www.youtube.com/watch?v=JBGsqsoGxEo)
+- [쿠버네티스 기반 게임 서버 AGONES](https://gc.hosting.kr/blog-serverless-agnoes/)
 
 ## AWS
 
