@@ -64,6 +64,7 @@
 
 - [BLoC 이해 하기 및 간단 정리 하기](https://pks2974.medium.com/bloc-%EC%9D%B4%ED%95%B4-%ED%95%98%EA%B8%B0-%EB%B0%8F-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC-%ED%95%98%EA%B8%B0-7dc705e4c640)
 - [Concurrency 총정리](https://medium.com/mj-studio/dart-concurrency-%EC%B4%9D%EC%A0%95%EB%A6%AC-eec678a405b6)
+- [왜 Flutter는 Dart를 사용하는가?](https://medium.com/flutter-korea/%EC%99%9C-flutter%EB%8A%94-dart%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80-e838b9415f57)
 
 ## 언어 비교
 
