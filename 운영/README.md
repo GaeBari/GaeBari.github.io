@@ -32,6 +32,7 @@
 - [kafka schema registry와 protocol buffer](https://medium.com/@ninucium/is-using-kafka-with-schema-registry-and-protobuf-worth-it-part-1-1c4a9995a5d3)
 - [[네이버D2]Kafka에서 파티션 증가 없이 동시 처리량을 늘리는 방법 - Parallel Consumer](https://d2.naver.com/helloworld/7181840)
 - [인프런이 자동으로 자막을 생성하기까지 (AI/인프라 편)](https://tech.inflab.com/20231031-inflearn-subtitle/)
+- [[라인]메시징 시스템(a.k.a messaging-hub) 톺아보기](https://engineering.linecorp.com/ko/blog/about-messaging-hub-2)
 
 ## AWS
 
