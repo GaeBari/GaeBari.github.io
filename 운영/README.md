@@ -37,6 +37,7 @@
 - [[카카오]공용 Message Streaming Platform – Kafka & RabbitMQ](https://tech.kakao.com/2021/12/23/kafka-rabbitmq/)
 - [Grafana Loki에 대해 알아보자](https://devocean.sk.com/blog/techBoardDetail.do?ID=163964)
 - [토스는 Gateway 이렇게 씁니다.](https://toss.tech/article/slash23-server?fbclid=IwAR09wlHNq1t6p5cY_WK_NYnM5J0Dj1iXdcnD)
+- [Github 10월 21일 장애 후 분석](https://github.blog/2018-10-30-oct21-post-incident-analysis/)
 
 ## AWS
 
