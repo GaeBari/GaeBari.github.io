@@ -30,6 +30,7 @@
 - [네트워크 기초(개정판) - 따라하면서 배우는 IT](https://www.youtube.com/playlist?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi)
 - [컴퓨터네트워크 제19강 TCP 혼잡 제어(Congestion Control)](https://www.youtube.com/watch?v=R2dWNQTABcI)
 - [OAuth 2.0 동작 원리 알아보기](https://kimyc1223.github.io/blog/2023/09/25/TechPost.html)
+- [CLOSE_WAIT & TIME_WAIT 최종 분석](https://tech.kakao.com/2016/04/21/closewait-timewait/)
 
 ## Test
 
