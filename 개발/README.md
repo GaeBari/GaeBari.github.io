@@ -32,6 +32,7 @@
 - [자바스크립트 에코시스템의 속도 향상 - 배럴(Barrel) 파일의 대실패](https://substack.com/redirect/8466093b-bb77-438f-82e7-18c2f34a7a4b?j=eyJ1IjoiMnE2cGh6In0.S9uzabEeMZwGQFn6WI1FNu56EqoKh3X4ACu88k6Cf6s)
 - [[라인]V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class)
 - [HTML에서 &nbsp;를 언제, 왜 써야할까?](https://www.daleseo.com/html-nbsp/)
+- [사내 npm 패키지 저장소를 구축하기 위해 겪었던 과정들](https://devblog.kakaostyle.com/ko/2022-03-07-1-npm-private-repository/)
 
 ## Java
 
