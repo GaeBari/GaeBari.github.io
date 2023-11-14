@@ -25,6 +25,7 @@
 - [MySQL varchar(255)를 사용하는 이유?](https://velog.io/@sunaookamisiroko/MySQL-varchar255%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 - [Lock으로 이해하는 Transaction의 Isolation Level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/)
 - [Understanding Polymorphic Relationships](https://devdojo.com/tnylea/understanding-polymorphic-relationships)
+- [어떤 경우에 한 방 조인 쿼리와 여러 개 쿼리 분리를 고려할 수 있을까?](https://tecoble.techcourse.co.kr/post/2023-10-09-join-query-vs-multiple-quries/)
 
 ## 네트워크
 
