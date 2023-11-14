@@ -20,6 +20,7 @@
 - [협업을 잘하는 개발자가 되어보자 - 프로그래머가 아니라 문제 해결사가 되자!](https://velog.io/@teo/collaboration)
 - [제품 중심 개발자](https://careerly.co.kr/comments/90370?utm_source=crm&utm_medium=email&utm_campaign=newsletter_careerly_users&utm_content=newsletter230919_backend_a)
 - [스타트업 채용, 정말 언어 문제일까요?](https://blog.raccoony.dev/language-is-not-the-only-reason-startups-are-hard-to-hire/)
+- [개발자가 예술가는 아니지만](https://brunch.co.kr/@chaewonkong/36)
 
 ## 미분류
 
