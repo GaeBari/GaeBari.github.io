@@ -46,6 +46,7 @@
 - [좋은 코드를 위한 자바 변수명 네이밍](https://tecoble.techcourse.co.kr/post/2020-04-24-variable_naming)
 - [Java Virtual Threads 훑어보기](https://perfectacle.github.io/2022/12/29/look-over-java-virtual-threads/)
 - [도움이 될수도 있는 JVM memory leak 이야기](https://techblog.woowahan.com/2628/)
+- [Apache HTTP Server? Apache Tomcat? 서버 바로 알기](https://tecoble.techcourse.co.kr/post/2021-05-24-apache-tomcat/)
 
 ## Python
 
