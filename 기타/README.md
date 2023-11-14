@@ -22,4 +22,5 @@
 - [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기](https://blog.banksalad.com/tech/url-status-checker)
 - [[카카오테크]오픈소스 라이선스 변화의 흐름](https://tech.kakao.com/2021/09/08/opensource-license)
 - [배달의민족의 지리 체계를 뒤흔들다](https://techblog.woowahan.com/11238/)
+- [개발자에게 편리함을 주는 'GraphQL' 도입 시 주의할 점은?](https://yozm.wishket.com/magazine/detail/2266/)
 
