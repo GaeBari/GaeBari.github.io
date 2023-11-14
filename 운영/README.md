@@ -47,6 +47,7 @@
 - [하루에 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
 - [Kubernetes로 개발서버 간단히 찍어내기](https://www.slideshare.net/seungyongoh3/ndc17-kubernetes)
 - [CPU 이용률의 두 가지 얼굴 – CPU 코어 사용량(Usage)과 활용률(Utilization)](https://netmarble.engineering/cpu-core-usage-and-utilization)
+- [스토리지 최적의 스펙 관리 시스템 만들기](https://techblog.woowahan.com/13539/?utm_source=oneoneone)
 
 ## AWS
 
