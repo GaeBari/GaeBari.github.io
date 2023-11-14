@@ -18,6 +18,7 @@
 - [‘설득하기’ 만큼 ‘설득 당하기’가 중요한 이유](https://yozm.wishket.com/magazine/detail/2262/)
 - [엉터리 스프린트는 왜 반복되는가?](https://catwebs.tistory.com/m/58)
 - [협업을 잘하는 개발자가 되어보자 - 프로그래머가 아니라 문제 해결사가 되자!](https://velog.io/@teo/collaboration)
+- [제품 중심 개발자](https://careerly.co.kr/comments/90370?utm_source=crm&utm_medium=email&utm_campaign=newsletter_careerly_users&utm_content=newsletter230919_backend_a)
 
 ## 미분류
 
