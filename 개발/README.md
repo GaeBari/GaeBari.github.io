@@ -35,6 +35,7 @@
 - [사내 npm 패키지 저장소를 구축하기 위해 겪었던 과정들](https://devblog.kakaostyle.com/ko/2022-03-07-1-npm-private-repository/)
 - [만들면서 학습하는 리액트: 준비편](https://jeonghwan-kim.github.io/series/2021/04/05/lecture-react-ready.html)
 - [[번역] CommonJS는 사라지지 않습니다](https://velog.io/@surim014/commonJS-is-not-going-away)
+- [(번역) 타입스크립트에 대해 아무도 설명해주지 않은 것 한 가지](https://ykss.netlify.app/translation/one_thing_nobody_explained_to_you_about_typescript)
 
 ## Java
 
