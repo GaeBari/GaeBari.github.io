@@ -85,6 +85,7 @@
 - [go에서 DTO쓰지 마세요](https://medium.com/@dsysd-dev/stop-using-dtos-in-go-its-not-java-96ef4794481a)
 - [Cancellation pattern 구현](https://medium.com/@alireza.stack/cancellation-pattern-implementation-in-go-179706ae772b)
 - [Coroutine과 Fiber](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4%EA%B3%BC-%ED%8C%8C%EC%9D%B4%EB%B2%84-9e93c12bce30)
+- [왜 Go에서는 수백만개의 Goroutine을 만들수 있지만, Java는 수천개의 스레드만 만들 수 있을까?](https://www.mimul.com/blog/go-vs-java-thread/)
 
 ## 플러터
 
