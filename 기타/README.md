@@ -21,6 +21,7 @@
 - [제품 중심 개발자](https://careerly.co.kr/comments/90370?utm_source=crm&utm_medium=email&utm_campaign=newsletter_careerly_users&utm_content=newsletter230919_backend_a)
 - [스타트업 채용, 정말 언어 문제일까요?](https://blog.raccoony.dev/language-is-not-the-only-reason-startups-are-hard-to-hire/)
 - [개발자가 예술가는 아니지만](https://brunch.co.kr/@chaewonkong/36)
+- [주니어 개발자는 어디에서 커리어를 시작하면 좋을까?](https://f-lab.kr/blog/junior-developer-career-management)
 
 ## 미분류
 
