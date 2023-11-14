@@ -16,6 +16,7 @@
 - [팀을 빨리 망치는 팀원의 10가지 기술](https://brunch.co.kr/@zseo/76)
 - [리얼월드에서 프로그래머로 살아내기](https://yozm.wishket.com/magazine/detail/2239/)
 - [‘설득하기’ 만큼 ‘설득 당하기’가 중요한 이유](https://yozm.wishket.com/magazine/detail/2262/)
+- [엉터리 스프린트는 왜 반복되는가?](https://catwebs.tistory.com/m/58)
 
 ## 미분류
 
