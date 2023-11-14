@@ -71,6 +71,7 @@
 - [FastAPI 한줄씩 따라읽기](https://rumbarum.oopy.io/post/examine-fastapi-handling-request-line-by-line-with-comment)
 - [FastAPI Depends 톺아보기](https://rumbarum.oopy.io/post/how-fastapi-depends-work)
 - [ExceptionGroup and except\*(PEP-654) 파보기 Feat. TaskGroup](https://rumbarum.oopy.io/post/python-exception-group)
+- [Python Ray 사용법 - Python 병렬처리, 분산처리](https://zzsza.github.io/mlops/2021/01/03/python-ray/)
 
 ## Go
 
