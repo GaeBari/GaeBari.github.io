@@ -15,6 +15,7 @@
 - [MySQL에서 ‘a’ = ‘a ‘가 true로 평가된다? - 우아한기술블로그](https://techblog.woowahan.com/2559)
 - [실시간 복제 데이터를 이관시키는 방법 (DynamoDB -> PostgreSQL)](https://medium.com/stayge-labs/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%9D%B4%EA%B4%80%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95-498d3d52c8b4)
 - [MySQL의 ENUM 타입을 사용하지 말아야 할 8가지 이유](https://velog.io/@leejh3224/%EB%B2%88%EC%97%AD-MySQL%EC%9D%98-ENUM-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-8%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
+- [How the Figma infrastructure team reduced potential instability by scaling to multiple databases](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
 
 ## 네트워크
 
