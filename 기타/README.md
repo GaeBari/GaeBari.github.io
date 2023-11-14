@@ -11,6 +11,7 @@
 - [언젠가 빛날 주니어들에게](https://medium.com/@totuworld/%EC%96%B8%EC%A0%9C%EA%B0%80-%EB%B9%9B%EB%82%A0-%EC%A3%BC%EB%8B%88%EC%96%B4%EB%93%A4%EC%97%90%EA%B2%8C-10b4baa281ad)
 - [채용 우대사항에 있는 기술을 써도 회사에 떨어지는 이유](https://f-lab.kr/blog/why-drop-me-for-preparing-a-lot)
 - [기술 부채와 오버 엔지니어링을 줄이는 방법](https://community.rememberapp.co.kr/post/89977)
+- [MVP의 5가지 함정과 탈출법](https://brunch.co.kr/@jjollae/7)
 
 ## 미분류
 
