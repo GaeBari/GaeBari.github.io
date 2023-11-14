@@ -33,6 +33,7 @@
 - [[라인]V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class)
 - [HTML에서 &nbsp;를 언제, 왜 써야할까?](https://www.daleseo.com/html-nbsp/)
 - [사내 npm 패키지 저장소를 구축하기 위해 겪었던 과정들](https://devblog.kakaostyle.com/ko/2022-03-07-1-npm-private-repository/)
+- [만들면서 학습하는 리액트: 준비편](https://jeonghwan-kim.github.io/series/2021/04/05/lecture-react-ready.html)
 
 ## Java
 
