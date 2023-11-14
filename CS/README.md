@@ -19,6 +19,7 @@
 - [How the Figma infrastructure team reduced potential instability by scaling to multiple databases](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
 - [MySQL에서 ‘a’ = ‘a ‘가 true로 평가된다?](https://techblog.woowahan.com/2559/)
 - [MySQL의 Transaction Isolation Level (Lock에 관하여)](https://labs.brandi.co.kr//2019/06/19/hansj.html)
+- [NoSQL이란 무엇인가? 대량데이터 동시처리위한 DBMS 종류와 특징](https://www.samsungsds.com/kr/insights/1232564_4627.html)
 
 ## 네트워크
 
