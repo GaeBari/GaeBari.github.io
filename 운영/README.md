@@ -66,4 +66,5 @@
 - [토스ㅣSLASH 23 - 분산 추적 체계 & 로그 중심으로 Observability 확보하기](https://www.youtube.com/watch?v=Ifz0LsfAG94)
 - [소프트웨어 엔지니어가 알아야 할 로그에 대한 모든 것](https://medium.com/rate-labs/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%A8%EB%93%A0-%EA%B2%83-11513af8b998)
 - [[인포그랩]GitLab 밋업으로 알아보는 Observability 이야기](https://insight.infograb.net/blog/2023/05/25/gitlab-korea-observability/)
+- [옵저버빌리티: 로그라고해서 다 같은 로그가 아니다](https://netmarble.engineering/observability-logging-a/)
 
