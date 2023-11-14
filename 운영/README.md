@@ -43,6 +43,7 @@
 - [istio proxy의 작동원리](https://brunch.co.kr/@growthminder/84)
 - [GAMELIFT FLEXMATCH 실습](https://aws-samples.github.io/aws-gamelift-sample/ko/flexmatch/)
 - [kubernetes에서 grpc server의 health checking](https://kubernetes.io/blog/2018/10/01/health-checking-grpc-servers-on-kubernetes/)
+- [CAP 정리의 예시 증명](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 
 ## AWS
 
