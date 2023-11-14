@@ -43,6 +43,7 @@
 - [Java Virtual Threads 훑어보기](https://perfectacle.github.io/2022/12/29/look-over-java-virtual-threads)
 - [왜 Go에서는 수백만개의 Goroutine을 만들수 있지만, Java는 수천개의 스레드만 만들 수 있을까?](https://www.mimul.com/blog/go-vs-java-thread)
 - [좋은 코드를 위한 자바 변수명 네이밍](https://tecoble.techcourse.co.kr/post/2020-04-24-variable_naming)
+- [Java Virtual Threads 훑어보기](https://perfectacle.github.io/2022/12/29/look-over-java-virtual-threads/)
 
 ## Python
 
