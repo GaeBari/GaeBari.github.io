@@ -15,6 +15,7 @@
 - [소프트웨어 기술을 바이블화하면 안된다](https://subokim.wordpress.com/2023/06/11/software-is-not-bible/)
 - [팀을 빨리 망치는 팀원의 10가지 기술](https://brunch.co.kr/@zseo/76)
 - [리얼월드에서 프로그래머로 살아내기](https://yozm.wishket.com/magazine/detail/2239/)
+- [‘설득하기’ 만큼 ‘설득 당하기’가 중요한 이유](https://yozm.wishket.com/magazine/detail/2262/)
 
 ## 미분류
 
