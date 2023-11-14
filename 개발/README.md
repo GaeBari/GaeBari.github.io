@@ -40,6 +40,7 @@
 - [클로저 컴파일러의 역사, 그리고 타입스크립트가 승리한 이유](https://ktseo41.github.io/blog/log/the-saga-of-the-closure-compiler-and-why-typescript-won.html)
 - [Tailwind CSS에서 혼란을 방지하기 위한 5가지 모범 사례](https://velog.io/@lky5697/5-best-practices-for-preventing-chaos-in-tailwind-css?utm_source=substack&utm_medium=email)
 - [리엑트 웹소켓 완벽 가이드](https://ably.com/blog/websockets-react-tutorial)
+- [Code splitting시 주의해야할 점](https://velog.io/@whdtlrtlr4/Code-splitting%EC%8B%9C-%EC%A3%BC%EC%9D%98%ED%95%B4%EC%95%BC%ED%95%A0-%EC%A0%90side-effect)
 
 ## Java
 
