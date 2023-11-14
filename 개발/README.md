@@ -51,6 +51,7 @@
 - [도움이 될수도 있는 JVM memory leak 이야기](https://techblog.woowahan.com/2628/)
 - [Apache HTTP Server? Apache Tomcat? 서버 바로 알기](https://tecoble.techcourse.co.kr/post/2021-05-24-apache-tomcat/)
 - [Kotlin으로 DSL 만들기: 반복적이고 지루한 REST Docs 벗어나기](https://toss.tech/article/kotlin-dsl-restdocs)
+- [자바 메모리 관리 - 가비지 컬렉션](https://yaboong.github.io/java/2018/06/09/java-garbage-collection/)
 
 ## Python
 
