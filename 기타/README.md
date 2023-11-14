@@ -22,6 +22,7 @@
 - [스타트업 채용, 정말 언어 문제일까요?](https://blog.raccoony.dev/language-is-not-the-only-reason-startups-are-hard-to-hire/)
 - [개발자가 예술가는 아니지만](https://brunch.co.kr/@chaewonkong/36)
 - [주니어 개발자는 어디에서 커리어를 시작하면 좋을까?](https://f-lab.kr/blog/junior-developer-career-management)
+- [경쟁력 있는 주니어 개발자가 되는 방법](https://f-lab.kr/blog/to-be-competitive-junior-developers)
 
 ## 미분류
 
