@@ -30,6 +30,7 @@
 - [[카카오테크]주니어 개발자의 우여곡절 소셜로그인 도입 과정](https://tech.kakao.com/2023/01/19/social-login)
 - [당근 리브랜딩 캠페인 페이지를 개발하며 배운 것](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%A6%AC%EB%B8%8C%EB%9E%9C%EB%94%A9-%EC%BA%A0%ED%8E%98%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83-b41d866df9b7)
 - [자바스크립트 에코시스템의 속도 향상 - 배럴(Barrel) 파일의 대실패](https://substack.com/redirect/8466093b-bb77-438f-82e7-18c2f34a7a4b?j=eyJ1IjoiMnE2cGh6In0.S9uzabEeMZwGQFn6WI1FNu56EqoKh3X4ACu88k6Cf6s)
+- [[라인]V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class)
 
 ## Java
 
