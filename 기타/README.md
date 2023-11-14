@@ -31,4 +31,5 @@
 - [카카오페이 기술 블로그 월 평균 방문자 수 10,000명을 넘기까지](https://tech.kakaopay.com/post/kakaopay-techlog-2/)
 - [[토스페이먼츠]좋은 객체 ID(Object ID) 만들기](https://velog.io/@tosspayments/%EC%A2%8B%EC%9D%80-%EA%B0%9D%EC%B2%B4-IDObject-ID-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [모델 서빙 최적화를 위한 프레임워크 선정과 서빙 성능 극대화하기](https://tech.kakaopay.com/post/model-serving-framework/)
+- [설레발 주도 개발](https://lazygyu.net/blog/hype_driven_development)
 
