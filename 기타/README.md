@@ -17,6 +17,7 @@
 - [리얼월드에서 프로그래머로 살아내기](https://yozm.wishket.com/magazine/detail/2239/)
 - [‘설득하기’ 만큼 ‘설득 당하기’가 중요한 이유](https://yozm.wishket.com/magazine/detail/2262/)
 - [엉터리 스프린트는 왜 반복되는가?](https://catwebs.tistory.com/m/58)
+- [협업을 잘하는 개발자가 되어보자 - 프로그래머가 아니라 문제 해결사가 되자!](https://velog.io/@teo/collaboration)
 
 ## 미분류
 
