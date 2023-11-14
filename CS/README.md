@@ -21,6 +21,7 @@
 - [MySQL의 Transaction Isolation Level (Lock에 관하여)](https://labs.brandi.co.kr//2019/06/19/hansj.html)
 - [NoSQL이란 무엇인가? 대량데이터 동시처리위한 DBMS 종류와 특징](https://www.samsungsds.com/kr/insights/1232564_4627.html)
 - [Aurora MySQL vs Aurora PostgreSQL](https://techblog.woowahan.com/6550/)
+- [MySQL varchar(255)를 사용하는 이유?](https://velog.io/@sunaookamisiroko/MySQL-varchar255%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 
 ## 네트워크
 
