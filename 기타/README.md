@@ -13,6 +13,7 @@
 - [기술 부채와 오버 엔지니어링을 줄이는 방법](https://community.rememberapp.co.kr/post/89977)
 - [MVP의 5가지 함정과 탈출법](https://brunch.co.kr/@jjollae/7)
 - [소프트웨어 기술을 바이블화하면 안된다](https://subokim.wordpress.com/2023/06/11/software-is-not-bible/)
+- [팀을 빨리 망치는 팀원의 10가지 기술](https://brunch.co.kr/@zseo/76)
 
 ## 미분류
 
