@@ -39,6 +39,7 @@
 [(번역) Linux에서 메모리를 다 써버렸을 때 일어나는 일](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-linux%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC-%EB%8B%A4-%EC%8D%A8%EB%B2%84%EB%A0%B8%EC%9D%84-%EB%95%8C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC-9dadba29c89c)
 [Difference between APT and APT-GET in Linux](https://medium.com/@mobolaji___/difference-between-apt-and-apt-get-in-linux-71108bdd35f2)
 [리눅스의 페이지 캐시와 버퍼 캐시](https://brunch.co.kr/@alden/25)
+- [개념 정리 - (7) 운영 체제 편](https://brunch.co.kr/@toughrogrammer/15)
 
 ## 디자인패턴
 
