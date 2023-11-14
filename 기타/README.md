@@ -23,4 +23,5 @@
 - [[카카오테크]오픈소스 라이선스 변화의 흐름](https://tech.kakao.com/2021/09/08/opensource-license)
 - [배달의민족의 지리 체계를 뒤흔들다](https://techblog.woowahan.com/11238/)
 - [개발자에게 편리함을 주는 'GraphQL' 도입 시 주의할 점은?](https://yozm.wishket.com/magazine/detail/2266/)
+- [카카오페이 기술 블로그 월 평균 방문자 수 10,000명을 넘기까지](https://tech.kakaopay.com/post/kakaopay-techlog-2/)
 
