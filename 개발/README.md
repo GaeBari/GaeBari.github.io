@@ -36,6 +36,7 @@
 - [만들면서 학습하는 리액트: 준비편](https://jeonghwan-kim.github.io/series/2021/04/05/lecture-react-ready.html)
 - [[번역] CommonJS는 사라지지 않습니다](https://velog.io/@surim014/commonJS-is-not-going-away)
 - [(번역) 타입스크립트에 대해 아무도 설명해주지 않은 것 한 가지](https://ykss.netlify.app/translation/one_thing_nobody_explained_to_you_about_typescript)
+- [(번역) 하이드레이션은 트리이고, 재개 가능성(Resumability)은 맵입니다](https://velog.io/@superlipbalm/hydration-tree-resumability-map)
 
 ## Java
 
