@@ -39,6 +39,7 @@
 - [토스는 Gateway 이렇게 씁니다.](https://toss.tech/article/slash23-server?fbclid=IwAR09wlHNq1t6p5cY_WK_NYnM5J0Dj1iXdcnD)
 - [Github 10월 21일 장애 후 분석](https://github.blog/2018-10-30-oct21-post-incident-analysis/)
 - [엘라스틱서치를 활용한 수평 확장 가능한 광고 서버 만들기](https://hyperconnect.github.io/2023/06/21/exploring-devrel-culture.html)
+- [[번역] 쿠버네티스에서 쉽게 저지르는 10가지 실수](https://coffeewhale.com/kubernetes/mistake/2020/11/29/mistake-10)
 
 ## AWS
 
