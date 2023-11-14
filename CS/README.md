@@ -44,4 +44,5 @@
 ## 디자인패턴
 
 [(번역) 우리들을 위한 디자인 패턴](https://soobing.github.io/cs/design-patterns-for-humans)
+- [(번역) 우리들을 위한 디자인 패턴](https://soobing.github.io/cs/design-patterns-for-humans/)
 
