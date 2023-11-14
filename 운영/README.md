@@ -35,6 +35,7 @@
 - [[라인]메시징 시스템(a.k.a messaging-hub) 톺아보기](https://engineering.linecorp.com/ko/blog/about-messaging-hub-2)
 - [개발자를 위한 레디스 튜토리얼 01](https://meetup.nhncloud.com/posts/224)
 - [[카카오]공용 Message Streaming Platform – Kafka & RabbitMQ](https://tech.kakao.com/2021/12/23/kafka-rabbitmq/)
+- [Grafana Loki에 대해 알아보자](https://devocean.sk.com/blog/techBoardDetail.do?ID=163964)
 
 ## AWS
 
