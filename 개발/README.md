@@ -61,6 +61,7 @@
 - [Kotlin으로 DSL 만들기: 반복적이고 지루한 REST Docs 벗어나기](https://toss.tech/article/kotlin-dsl-restdocs)
 - [자바 메모리 관리 - 가비지 컬렉션](https://yaboong.github.io/java/2018/06/09/java-garbage-collection/)
 - [custom exception을 언제 써야 할까?](https://tecoble.techcourse.co.kr/post/2020-08-17-custom-exception/)
+- [JVM과 하드웨어, 운영체제](https://blog.yevgnenll.me/posts/jvm-hardware-operating-system)
 
 ## Python
 
