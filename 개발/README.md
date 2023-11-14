@@ -39,7 +39,7 @@
 - [(번역) 하이드레이션은 트리이고, 재개 가능성(Resumability)은 맵입니다](https://velog.io/@superlipbalm/hydration-tree-resumability-map)
 - [클로저 컴파일러의 역사, 그리고 타입스크립트가 승리한 이유](https://ktseo41.github.io/blog/log/the-saga-of-the-closure-compiler-and-why-typescript-won.html)
 - [Tailwind CSS에서 혼란을 방지하기 위한 5가지 모범 사례](https://velog.io/@lky5697/5-best-practices-for-preventing-chaos-in-tailwind-css?utm_source=substack&utm_medium=email)
-- [리엑트 웹소켓 완변 가이드](https://ably.com/blog/websockets-react-tutorial)
+- [리엑트 웹소켓 완벽 가이드](https://ably.com/blog/websockets-react-tutorial)
 
 ## Java
 
