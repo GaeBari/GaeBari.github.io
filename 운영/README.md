@@ -52,6 +52,7 @@
 - [Deploy Minecraft by Docker](https://velog.io/@windsekirun/Deploy-Minecraft-by-Docker)
 - [데드락 예방과 SQS 도입](https://tech.wonderwall.kr/articles/inventory)
 - [raft 합의 알고리즘 애니메이션화](http://thesecretlivesofdata.com/raft/)
+- [클라우드 네이티브 시대의 Windows 게임 서버](https://tv.naver.com/v/16969994)
 
 ## AWS
 
