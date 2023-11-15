@@ -51,6 +51,7 @@
 - [KUBERNETES에서 POD가 생성되고 업데이트 되는 과정](https://leehosu.github.io/kubernetes-apply-pod)
 - [Deploy Minecraft by Docker](https://velog.io/@windsekirun/Deploy-Minecraft-by-Docker)
 - [데드락 예방과 SQS 도입](https://tech.wonderwall.kr/articles/inventory)
+- [raft 합의 알고리즘 애니메이션화](http://thesecretlivesofdata.com/raft/)
 
 ## AWS
 
