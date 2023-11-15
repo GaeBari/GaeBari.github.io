@@ -52,6 +52,7 @@
 [Difference between APT and APT-GET in Linux](https://medium.com/@mobolaji___/difference-between-apt-and-apt-get-in-linux-71108bdd35f2)
 [리눅스의 페이지 캐시와 버퍼 캐시](https://brunch.co.kr/@alden/25)
 - [개념 정리 - (7) 운영 체제 편](https://brunch.co.kr/@toughrogrammer/15)
+- [운영체제 시리즈 - Concurrency (3)](https://velog.io/@coral2cola/Concurrency-3-1bwd7c0w)
 
 ## 디자인패턴
 
