@@ -54,6 +54,7 @@
 - [raft 합의 알고리즘 애니메이션화](http://thesecretlivesofdata.com/raft/)
 - [클라우드 네이티브 시대의 Windows 게임 서버](https://tv.naver.com/v/16969994)
 - [operator-sdk를 사용하여 쿠버네티스 오퍼레이터 구축하기](https://frozenpond.tistory.com/146?category=1209055)
+- [ELK와 Grafana를 이용해 테스트 자동화 시각화하기](https://engineering.linecorp.com/ko/blog/visualizing-test-automation-with-elk-grafana)
 
 ## AWS
 
