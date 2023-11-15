@@ -56,6 +56,7 @@
 - [operator-sdk를 사용하여 쿠버네티스 오퍼레이터 구축하기](https://frozenpond.tistory.com/146?category=1209055)
 - [ELK와 Grafana를 이용해 테스트 자동화 시각화하기](https://engineering.linecorp.com/ko/blog/visualizing-test-automation-with-elk-grafana)
 - [Pulumi를 이용하여 코드로 AWS 리소스 관리하기](https://www.letmecompile.com/manage-aws-resources-with-pulumi-iac/)
+- [Backstage란?](https://nauco.tistory.com/m/113)
 
 ## AWS
 
