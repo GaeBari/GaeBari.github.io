@@ -57,6 +57,7 @@
 - [ELK와 Grafana를 이용해 테스트 자동화 시각화하기](https://engineering.linecorp.com/ko/blog/visualizing-test-automation-with-elk-grafana)
 - [Pulumi를 이용하여 코드로 AWS 리소스 관리하기](https://www.letmecompile.com/manage-aws-resources-with-pulumi-iac/)
 - [Backstage란?](https://nauco.tistory.com/m/113)
+- [k8s Authentication(인증)과 RBAC(인가) + 실습](https://nayoungs.tistory.com/m/entry/Kubernetes-RBAC-%EB%B0%8F-%EC%9D%B8%EC%A6%9D)
 
 ## AWS
 
