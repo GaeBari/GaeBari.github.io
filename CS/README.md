@@ -26,6 +26,7 @@
 - [Lock으로 이해하는 Transaction의 Isolation Level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/)
 - [Understanding Polymorphic Relationships](https://devdojo.com/tnylea/understanding-polymorphic-relationships)
 - [어떤 경우에 한 방 조인 쿼리와 여러 개 쿼리 분리를 고려할 수 있을까?](https://tecoble.techcourse.co.kr/post/2023-10-09-join-query-vs-multiple-quries/)
+- [MySQL InnoDB lock & deadlock 이해하기](https://www.letmecompile.com/mysql-innodb-lock-deadlock/)
 
 ## 네트워크
 
