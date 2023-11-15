@@ -50,6 +50,7 @@
 - [스토리지 최적의 스펙 관리 시스템 만들기](https://techblog.woowahan.com/13539/?utm_source=oneoneone)
 - [KUBERNETES에서 POD가 생성되고 업데이트 되는 과정](https://leehosu.github.io/kubernetes-apply-pod)
 - [Deploy Minecraft by Docker](https://velog.io/@windsekirun/Deploy-Minecraft-by-Docker)
+- [데드락 예방과 SQS 도입](https://tech.wonderwall.kr/articles/inventory)
 
 ## AWS
 
