@@ -45,6 +45,7 @@
 - [[DP] FluxPattern이란?](https://velog.io/@andy0011/Flux-%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80)
 - [Micro Frontends를 위해 Module Federation 적용하기](https://blog.gangnamunni.com/post/saas-microfrontends/)
 - [Trash talk: the Orinoco garbage collector](https://v8.dev/blog/trash-talk)
+- [유용한 리액트 패턴 5가지](https://velog.io/@dnr6054/%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%8C%A8%ED%84%B4-5%EA%B0%80%EC%A7%80)
 
 ## Java
 
