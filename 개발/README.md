@@ -44,6 +44,7 @@
 - [useEffect보다 더 좋은 게 있다고?](https://velog.io/@yokitomi/better-useEffect)
 - [[DP] FluxPattern이란?](https://velog.io/@andy0011/Flux-%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80)
 - [Micro Frontends를 위해 Module Federation 적용하기](https://blog.gangnamunni.com/post/saas-microfrontends/)
+- [Trash talk: the Orinoco garbage collector](https://v8.dev/blog/trash-talk)
 
 ## Java
 
