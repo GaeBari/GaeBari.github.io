@@ -49,6 +49,7 @@
 - [CPU 이용률의 두 가지 얼굴 – CPU 코어 사용량(Usage)과 활용률(Utilization)](https://netmarble.engineering/cpu-core-usage-and-utilization)
 - [스토리지 최적의 스펙 관리 시스템 만들기](https://techblog.woowahan.com/13539/?utm_source=oneoneone)
 - [KUBERNETES에서 POD가 생성되고 업데이트 되는 과정](https://leehosu.github.io/kubernetes-apply-pod)
+- [Deploy Minecraft by Docker](https://velog.io/@windsekirun/Deploy-Minecraft-by-Docker)
 
 ## AWS
 
