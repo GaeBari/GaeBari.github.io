@@ -48,6 +48,7 @@
 - [유용한 리액트 패턴 5가지](https://velog.io/@dnr6054/%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%8C%A8%ED%84%B4-5%EA%B0%80%EC%A7%80)
 - [tRPC와 리액트를 사용해 풀 스택 타입스크립트 앱 만들기](https://velog.io/@superlipbalm/full-stack-typescript-with-trpc-and-react)
 - [다른 도메인에 쿠키 설정하기](https://velog.io/@ooooorobo/%EB%8B%A4%EB%A5%B8-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%97%90-%EC%BF%A0%ED%82%A4-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [React 파이버 아키텍처 분석](https://careerly.co.kr/comments/89449?utm_campaign=user-share)
 
 ## Java
 
