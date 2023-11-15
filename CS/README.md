@@ -57,6 +57,7 @@
 [리눅스의 페이지 캐시와 버퍼 캐시](https://brunch.co.kr/@alden/25)
 - [개념 정리 - (7) 운영 체제 편](https://brunch.co.kr/@toughrogrammer/15)
 - [운영체제 시리즈 - Concurrency (3)](https://velog.io/@coral2cola/Concurrency-3-1bwd7c0w)
+- [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
 
 ## 디자인패턴
 
