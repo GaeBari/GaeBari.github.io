@@ -25,6 +25,7 @@
 - [경쟁력 있는 주니어 개발자가 되는 방법](https://f-lab.kr/blog/to-be-competitive-junior-developers)
 - [기술 부채와 오버 엔지니어링을 줄이는 방법](https://channy.creation.net/blog/1623)
 - [주니어 개발자들이 읽으면 좋은 테크 아티클 모음](https://f-lab.kr/blog/developer-tech-article-zip)
+- [가장 인상적이었던 이력서](https://jeho.page/essay/2023/11/04/impressive-resume.html)
 
 ## 미분류
 
