@@ -40,6 +40,7 @@
 - [컴퓨터네트워크 제19강 TCP 혼잡 제어(Congestion Control)](https://www.youtube.com/watch?v=R2dWNQTABcI)
 - [OAuth 2.0 동작 원리 알아보기](https://kimyc1223.github.io/blog/2023/09/25/TechPost.html)
 - [CLOSE_WAIT & TIME_WAIT 최종 분석](https://tech.kakao.com/2016/04/21/closewait-timewait/)
+- [네트워크 가상화란](https://www.redhat.com/ko/topics/virtualization/what-is-network-virtualization#:~:text=%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B0%80%EC%83%81%ED%99%94%EB%8A%94%20%ED%95%9C%EB%95%8C%20%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4,%EB%A5%BC%20%EB%8F%84%EC%9E%85%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9E%85%EB%8B%88%EB%8B%A4.)
 
 ## Test
 
