@@ -72,6 +72,7 @@
 - [1대의 서버 애플리케이션은 최대 몇 개의 동시 요청을 감당할 수 있을까?](https://songkg7.github.io/posts/Spring-MVC-Traffic-Testing/)
 - [[DP] 방문자 패턴 (Visitor pattern)](https://thecodinglog.github.io/design/2019/10/29/visitor-pattern.html)
 - [[10분 테코톡] 푸우의 Tomcat Thread Pool](https://www.youtube.com/watch?v=prniILbdOYA)
+- [JavaThread 에 대해 깊게 이해해보자](https://letsmakemyselfprogrammer.tistory.com/m/98)
 
 ## Python
 
