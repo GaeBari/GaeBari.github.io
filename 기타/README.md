@@ -27,6 +27,7 @@
 - [주니어 개발자들이 읽으면 좋은 테크 아티클 모음](https://f-lab.kr/blog/developer-tech-article-zip)
 - [가장 인상적이었던 이력서](https://jeho.page/essay/2023/11/04/impressive-resume.html)
 - [테스팅 프레임워크는 직접 만들어 써보자](https://toby.epril.com/m/5)
+- [11가지 악성 풀 리퀘스트](https://careerly.co.kr/comments/91428?utm_campaign=user-share)
 
 ## 미분류
 
