@@ -77,6 +77,7 @@
 - [AWS 아키텍처 다이어그램 제작 사이트](https://www.cloudcraft.co)
 - [Serverless 아키텍처에서 S3로 파일 업로드/다운로드 총 정리!](https://www.youtube.com/watch?v=f9LZWCSgojE)
 - [서버리스 기반 컨텐츠 추천 서비스 만들기 - 이상현(Vingle)](https://youtu.be/-LZFJ6BpplE)
+- [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
 
 ## Observability
 
