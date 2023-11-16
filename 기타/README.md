@@ -46,3 +46,7 @@
 - [모델 서빙 최적화를 위한 프레임워크 선정과 서빙 성능 극대화하기](https://tech.kakaopay.com/post/model-serving-framework/)
 - [설레발 주도 개발](https://lazygyu.net/blog/hype_driven_development)
 
+## Git
+
+- [https://blog.outsider.ne.kr/1448](Git 계정 여러 개 동시 사용하기)
+
