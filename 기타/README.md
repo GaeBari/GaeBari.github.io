@@ -28,6 +28,7 @@
 - [가장 인상적이었던 이력서](https://jeho.page/essay/2023/11/04/impressive-resume.html)
 - [테스팅 프레임워크는 직접 만들어 써보자](https://toby.epril.com/m/5)
 - [11가지 악성 풀 리퀘스트](https://careerly.co.kr/comments/91428?utm_campaign=user-share)
+- [[뱅크샐러드] 효율적인 코드리뷰를 위한 Pn룰](https://blog.banksalad.com/tech/banksalad-code-review-culture/#%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B9%84%EC%9A%A9%EC%9D%84-%EC%A4%84%EC%9D%B4%EA%B8%B0-%EC%9C%84%ED%95%9C-pn-%EB%A3%B0)
 
 ## 미분류
 
