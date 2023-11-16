@@ -30,6 +30,7 @@
 - [어떤 경우에 한 방 조인 쿼리와 여러 개 쿼리 분리를 고려할 수 있을까?](https://tecoble.techcourse.co.kr/post/2023-10-09-join-query-vs-multiple-quries/)
 - [SQL Injection Cheat Sheet](https://takudaddy.tistory.com/338)
 - [Redis Pipeline and Transaction(Multi/Exec)](https://charsyam.wordpress.com/2013/12/31/redis-pipeline-and-transactionmultiexec/)
+- [트랜잭션 격리 수준](https://tecoble.techcourse.co.kr/post/2022-11-07-mysql-isolation/)
 
 ## 네트워크
 
