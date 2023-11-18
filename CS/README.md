@@ -33,6 +33,7 @@
 - [트랜잭션 격리 수준](https://tecoble.techcourse.co.kr/post/2022-11-07-mysql-isolation)
 - [Redis 사용량 타노스하기](https://engineering.ab180.co/stories/thanos-redis)
 - [Redis Can Do More Than Caching](https://blog.bytebytego.com/p/redis-can-do-more-than-caching?utm_medium=email)
+- [Redis 7 Internals: Client Sends a Command and Receives a Response](https://betterprogramming.pub/redis-internals-client-sends-a-command-and-receives-a-response-b06178d98825)
 
 ## 네트워크
 
