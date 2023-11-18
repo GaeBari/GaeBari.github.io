@@ -49,6 +49,7 @@
 - [tRPC와 리액트를 사용해 풀 스택 타입스크립트 앱 만들기](https://velog.io/@superlipbalm/full-stack-typescript-with-trpc-and-react)
 - [다른 도메인에 쿠키 설정하기](https://velog.io/@ooooorobo/%EB%8B%A4%EB%A5%B8-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%97%90-%EC%BF%A0%ED%82%A4-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [React 파이버 아키텍처 분석](https://careerly.co.kr/comments/89449?utm_campaign=user-share)
+- [When to Nest CSS](https://cloudfour.com/thinks/when-to-nest-css/)
 
 ## Java
 
@@ -108,6 +109,7 @@
 - [왜 Flutter는 Dart를 사용하는가?](https://medium.com/flutter-korea/%EC%99%9C-flutter%EB%8A%94-dart%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80-e838b9415f57)
 
 ## 언어 기타
+
 - [Rust Project – Create an Authentication Server](https://www.freecodecamp.org/news/rust-tutorial-authentication-server/?ref=dailydev)
 
 ## 언어 비교
