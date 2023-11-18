@@ -42,6 +42,7 @@
 - [나는 육각형 개발자일까?](https://careerly.co.kr/comments/88828?utm_campaign=user-share)
 - [구글이 성공하는 비법: OKR](https://www.andrewahn.co/silicon-valley/okr/)
 - [신뢰자본 쌓기](https://careerly.co.kr/comments/93873?utm_campaign=user-share)
+- [우아한객체지향](https://youtu.be/dJ5C4qRqAgA?si=wexrI9bXup2MzhuM)
 
 ## 미분류
 
