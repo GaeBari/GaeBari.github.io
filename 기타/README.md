@@ -37,6 +37,7 @@
 - [[O2] Obsidian plugin 개발하기](https://songkg7.github.io/posts/develop-obsidian-plugin/)
 - [개발자가 알아야 할 데이터 지향 설계란?](https://yozm.wishket.com/magazine/detail/2157/)
 - [우당탕탕 정산어드민 시스템 파일럿 프로젝트 도전기](https://techblog.woowahan.com/8357/)
+- [null리턴은 왜 나쁠까?](https://toss.tech/article/engineering-note-2)
 
 ## 미분류
 
