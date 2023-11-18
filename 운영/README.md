@@ -63,6 +63,7 @@
 - [How Pinterest scaled to 11 million users with only 6 engineers](https://engineercodex.substack.com/p/how-pinterest-scaled-to-11-million?fbclid=PAAaYWEARAfGu_G2i0ic58jsH_KZczdy5ZqwIHHGYZAPdqbBEsFQZ2tEq4-38)
 - [인프런 아키텍처 2023-2024](https://hyeon9mak.github.io/inflearn-architecture-2023-2024/)
 - [스프링 부트 서버 모니터링하는 법](https://yozm.wishket.com/magazine/detail/2280/?utm_source=oneoneone)
+- [KEDA를 활용하여 방문자가 있을 때만 작동하는 서비스 배포하기](https://tech.cloudmt.co.kr/2022/03/11/http-traffic-based-autoscaling-with-keda/)
 
 ## AWS
 
