@@ -62,6 +62,7 @@
 - [스프링 클라우드, MQ 도입 사례](https://brunch.co.kr/@springboot/2)
 - [How Pinterest scaled to 11 million users with only 6 engineers](https://engineercodex.substack.com/p/how-pinterest-scaled-to-11-million?fbclid=PAAaYWEARAfGu_G2i0ic58jsH_KZczdy5ZqwIHHGYZAPdqbBEsFQZ2tEq4-38)
 - [인프런 아키텍처 2023-2024](https://hyeon9mak.github.io/inflearn-architecture-2023-2024/)
+- [스프링 부트 서버 모니터링하는 법](https://yozm.wishket.com/magazine/detail/2280/?utm_source=oneoneone)
 
 ## AWS
 
