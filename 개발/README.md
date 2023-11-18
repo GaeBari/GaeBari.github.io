@@ -50,6 +50,7 @@
 - [다른 도메인에 쿠키 설정하기](https://velog.io/@ooooorobo/%EB%8B%A4%EB%A5%B8-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%97%90-%EC%BF%A0%ED%82%A4-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [React 파이버 아키텍처 분석](https://careerly.co.kr/comments/89449?utm_campaign=user-share)
 - [When to Nest CSS](https://cloudfour.com/thinks/when-to-nest-css/)
+- [Event Capturing](https://green1229.tistory.com/m/416)
 
 ## Java
 
