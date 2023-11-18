@@ -9,6 +9,7 @@
 - [코딩 테스트 및 알고리즘 문제해결 공부 방법](https://www.slideshare.net/SuhyunPark23/kucc-2022-4)
 - [디스크 기반 Skip list를 사용한 대용량 실시간 랭킹](https://www.slideshare.net/noricube/skip-list-48379610)
 - [HashSet vs TreeSet vs LinkedHashSet 성능테스트](https://velog.io/@hihello/HashSet-vs-TreeSet-vs-LinkedHashSet-%EC%84%B1%EB%8A%A5%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [Redis SKIP List of  ZSETS](http://redisgate.kr/redis/configuration/internal_skiplist.php)
 
 ## 데이터베이스 DB
 
