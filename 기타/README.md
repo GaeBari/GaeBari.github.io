@@ -39,6 +39,7 @@
 - [우당탕탕 정산어드민 시스템 파일럿 프로젝트 도전기](https://techblog.woowahan.com/8357/)
 - [null리턴은 왜 나쁠까?](https://toss.tech/article/engineering-note-2)
 - [개발자 이력서, 사소한 체크리스트](https://taegon.kim/archives/10639)
+- [나는 육각형 개발자일까?](https://careerly.co.kr/comments/88828?utm_campaign=user-share)
 
 ## 미분류
 
