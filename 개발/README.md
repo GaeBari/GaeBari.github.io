@@ -78,6 +78,7 @@
 - [Java Stream API은 왜 for-loop보다 성능이 좋지 않을까?](https://sigridjin.medium.com/java-stream-api%EB%8A%94-%EC%99%9C-for-loop%EB%B3%B4%EB%8B%A4-%EB%8A%90%EB%A6%B4%EA%B9%8C-50dec4b9974b)
 - [RabbitMQ 클러스터, 미러링 구현 및 Spring 연동하기](https://backtony.github.io/spring/2021-09-21-spring-rabbitmq-1/)
 - [Spring Boot 성능 개선 1-2. Redis 동시 접속 성능 개선](https://velog.io/@gale4739/Spring-Boot-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-1-2.-Redis-%EB%8F%99%EC%8B%9C-%EC%A0%91%EC%86%8D-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0Feat.-Async)
+- [Spring Boot에서 S3에 파일을 업로드하는 세 가지 방법](https://techblog.woowahan.com/11392/)
 
 ## Python
 
