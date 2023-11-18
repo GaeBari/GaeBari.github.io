@@ -77,6 +77,7 @@
 - [Spring은 Http Message Body를 어떻게 Java의 객체로 역/직렬화할까?](https://velog.io/@prayme/Spring%EC%9D%80-Http-Message-Body%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-Java%EC%9D%98-%EA%B0%9D%EC%B2%B4%EB%A1%9C-%EC%97%AD%EC%A7%81%EB%A0%AC%ED%99%94%ED%95%A0%EA%B9%8C)
 - [Java Stream API은 왜 for-loop보다 성능이 좋지 않을까?](https://sigridjin.medium.com/java-stream-api%EB%8A%94-%EC%99%9C-for-loop%EB%B3%B4%EB%8B%A4-%EB%8A%90%EB%A6%B4%EA%B9%8C-50dec4b9974b)
 - [RabbitMQ 클러스터, 미러링 구현 및 Spring 연동하기](https://backtony.github.io/spring/2021-09-21-spring-rabbitmq-1/)
+- [Spring Boot 성능 개선 1-2. Redis 동시 접속 성능 개선](https://velog.io/@gale4739/Spring-Boot-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-1-2.-Redis-%EB%8F%99%EC%8B%9C-%EC%A0%91%EC%86%8D-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0Feat.-Async)
 
 ## Python
 
