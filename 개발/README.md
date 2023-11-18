@@ -107,6 +107,9 @@
 - [Concurrency 총정리](https://medium.com/mj-studio/dart-concurrency-%EC%B4%9D%EC%A0%95%EB%A6%AC-eec678a405b6)
 - [왜 Flutter는 Dart를 사용하는가?](https://medium.com/flutter-korea/%EC%99%9C-flutter%EB%8A%94-dart%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80-e838b9415f57)
 
+## 언어 기타
+- [Rust Project – Create an Authentication Server](https://www.freecodecamp.org/news/rust-tutorial-authentication-server/?ref=dailydev)
+
 ## 언어 비교
 
 - [‘Node.js’ VS ‘Java Spring’](https://medium.com/naverfinancial/node-js-vs-java-spring-c4699565918e)
