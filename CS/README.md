@@ -31,6 +31,7 @@
 - [SQL Injection Cheat Sheet](https://takudaddy.tistory.com/338)
 - [Redis Pipeline and Transaction(Multi/Exec)](https://charsyam.wordpress.com/2013/12/31/redis-pipeline-and-transactionmultiexec)
 - [트랜잭션 격리 수준](https://tecoble.techcourse.co.kr/post/2022-11-07-mysql-isolation)
+- [Redis 사용량 타노스하기](https://engineering.ab180.co/stories/thanos-redis)
 
 ## 네트워크
 
