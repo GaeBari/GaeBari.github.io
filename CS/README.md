@@ -34,6 +34,7 @@
 - [Redis 사용량 타노스하기](https://engineering.ab180.co/stories/thanos-redis)
 - [Redis Can Do More Than Caching](https://blog.bytebytego.com/p/redis-can-do-more-than-caching?utm_medium=email)
 - [Redis 7 Internals: Client Sends a Command and Receives a Response](https://betterprogramming.pub/redis-internals-client-sends-a-command-and-receives-a-response-b06178d98825)
+- [Atomic 처리와 cache stampede 대책을 위해 Redis Lua script를 활용한 이야기](https://engineering.linecorp.com/ko/blog/atomic-cache-stampede-redis-lua-script)
 
 ## 네트워크
 
