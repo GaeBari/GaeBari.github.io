@@ -61,6 +61,7 @@
 - [THE LEGENDS OF RUNETERRA CI/CD PIPELINE](https://technology.riotgames.com/news/legends-runeterra-cicd-pipeline)
 - [스프링 클라우드, MQ 도입 사례](https://brunch.co.kr/@springboot/2)
 - [How Pinterest scaled to 11 million users with only 6 engineers](https://engineercodex.substack.com/p/how-pinterest-scaled-to-11-million?fbclid=PAAaYWEARAfGu_G2i0ic58jsH_KZczdy5ZqwIHHGYZAPdqbBEsFQZ2tEq4-38)
+- [인프런 아키텍처 2023-2024](https://hyeon9mak.github.io/inflearn-architecture-2023-2024/)
 
 ## AWS
 
