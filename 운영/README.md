@@ -59,6 +59,7 @@
 - [Backstage란?](https://nauco.tistory.com/m/113)
 - [k8s Authentication(인증)과 RBAC(인가) + 실습](https://nayoungs.tistory.com/m/entry/Kubernetes-RBAC-%EB%B0%8F-%EC%9D%B8%EC%A6%9D)
 - [THE LEGENDS OF RUNETERRA CI/CD PIPELINE](https://technology.riotgames.com/news/legends-runeterra-cicd-pipeline)
+- [스프링 클라우드, MQ 도입 사례](https://brunch.co.kr/@springboot/2)
 
 ## AWS
 
