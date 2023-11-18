@@ -33,6 +33,7 @@
 - [실력 향상을 위한 해외 유튜브 채널 10개](https://careerly.co.kr/comments/88786)
 - [테스트코드 작성 하시나요?](https://careerly.co.kr/comments/93805?utm_campaign=user-share)
 - [시니어 개발자가 대화형 인공지능(ChatGPT)과 페어 프로그래밍하는 법(feat. DEVIEW 2023 코드 구현하기)](https://d2.naver.com/helloworld/7976382)
+- [누구도 알려주지 않는 백엔드 로드맵](https://yozm.wishket.com/magazine/detail/2064/)
 
 ## 미분류
 
