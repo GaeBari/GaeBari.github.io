@@ -103,6 +103,7 @@
 - [왜 Go에서는 수백만개의 Goroutine을 만들수 있지만, Java는 수천개의 스레드만 만들 수 있을까?](https://www.mimul.com/blog/go-vs-java-thread/)
 - [golang의 pipeline pattern](https://medium.com/jotform-tech/pipeline-go-pipeline-pattern-in-golang-5a51e5d811a)
 - [Go vs Java - Go에서의 객체 지향](https://umi0410.github.io/blog/golang/go-vs-java-oop/)
+- [Go 언어를 써보고 싶지만 망설이는 당신에게](https://blog.goorm.io/hominlee/)
 
 ## 플러터
 
