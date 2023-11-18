@@ -4,6 +4,7 @@
 
 - [jwt 보다 session이 안전할까?](https://github.com/boojongmin/memo/issues/7)
 - [짧은 세션 만료는 보안에 도움이 되지 않음](https://news.hada.io/topic?id=10424)
+- [JWT 대충 쓰면 님들 코딩인생 끝남](https://www.youtube.com/watch?v=XXseiON9CV0)
 
 ## 보안일반
 
