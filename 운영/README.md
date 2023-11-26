@@ -67,6 +67,7 @@
 - [글로벌 게임 퍼블리싱을 위한 해외 유저 테스트 VPN 서비스](https://netmarble.engineering/multi-region-vpn-service-for-global-game-publishing/)
 - [이벤트 드리븐 적재적소에 사용하기](https://tech.kakaopay.com/post/event-driven-architecture/)
 - [Rate Limiter: Tradeoffs/Bottlenecks SysDesign Interview](https://medium.com/@mkumar9009/rate-limiter-tradeoffs-bottlenecks-sysdesign-interview-c57c47864e99)
+- [Cloudflare 제어판 및 분석 서비스 중단 사후 분석](https://blog.cloudflare.com/ko-kr/post-mortem-on-cloudflare-control-plane-and-analytics-outage-ko-kr)
 
 ## AWS
 
