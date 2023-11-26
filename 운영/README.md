@@ -68,6 +68,7 @@
 - [이벤트 드리븐 적재적소에 사용하기](https://tech.kakaopay.com/post/event-driven-architecture/)
 - [Rate Limiter: Tradeoffs/Bottlenecks SysDesign Interview](https://medium.com/@mkumar9009/rate-limiter-tradeoffs-bottlenecks-sysdesign-interview-c57c47864e99)
 - [Cloudflare 제어판 및 분석 서비스 중단 사후 분석](https://blog.cloudflare.com/ko-kr/post-mortem-on-cloudflare-control-plane-and-analytics-outage-ko-kr)
+- [LINE 오픈챗 서버가 100배 급증하는 트래픽을 다루는 방법](https://engineering.linecorp.com/ko/blog/how-line-openchat-server-handles-extreme-traffic-spikes)
 
 ## AWS
 
