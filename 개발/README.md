@@ -119,6 +119,7 @@
 - [Concurrency 총정리](https://medium.com/mj-studio/dart-concurrency-%EC%B4%9D%EC%A0%95%EB%A6%AC-eec678a405b6)
 - [왜 Flutter는 Dart를 사용하는가?](https://medium.com/flutter-korea/%EC%99%9C-flutter%EB%8A%94-dart%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80-e838b9415f57)
 - [Flutter 인기 아키텍처 라이브러리 3종 비교 분석 - GetX vs BLoC vs Provider](https://engineering.linecorp.com/ko/blog/flutter-architecture-getx-bloc-provider)
+- [Flutter 개발에 Android, iOS 지식이 필요한가요?](https://youtu.be/bZKbrioqTCw?feature=shared)
 
 ## 언어 기타
 
