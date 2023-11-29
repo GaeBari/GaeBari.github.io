@@ -86,6 +86,7 @@
 - [Spring Boot 성능 개선 1-2. Redis 동시 접속 성능 개선](https://velog.io/@gale4739/Spring-Boot-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-1-2.-Redis-%EB%8F%99%EC%8B%9C-%EC%A0%91%EC%86%8D-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0Feat.-Async)
 - [Spring Boot에서 S3에 파일을 업로드하는 세 가지 방법](https://techblog.woowahan.com/11392/)
 - [스프링 부트 서버 모니터링하는 법](https://yozm.wishket.com/magazine/detail/2280)
+- [Kotlin DSL + Spring REST Docs + MockMvc 적용기](https://kth990303.tistory.com/348)
 
 ## Python
 
