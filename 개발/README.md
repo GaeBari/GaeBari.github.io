@@ -56,6 +56,7 @@
 - [React 파이버 아키텍처 분석](https://careerly.co.kr/comments/89449?utm_campaign=user-share)
 - [When to Nest CSS](https://cloudfour.com/thinks/when-to-nest-css/)
 - [Event Capturing](https://green1229.tistory.com/m/416)
+- [Using 'Pick' in TypeScript to simplify Types and Interfaces](https://ultimatecourses.com/blog/using-typescript-pick-mapped-type)
 
 ## Java
 
