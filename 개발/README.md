@@ -57,6 +57,7 @@
 - [When to Nest CSS](https://cloudfour.com/thinks/when-to-nest-css/)
 - [Event Capturing](https://green1229.tistory.com/m/416)
 - [Using 'Pick' in TypeScript to simplify Types and Interfaces](https://ultimatecourses.com/blog/using-typescript-pick-mapped-type)
+- [Atomic state management(Jotai)](https://blog.hwahae.co.kr/all/tech/6099)
 
 ## Java
 
