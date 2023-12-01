@@ -58,6 +58,7 @@
 - [Event Capturing](https://green1229.tistory.com/m/416)
 - [Using 'Pick' in TypeScript to simplify Types and Interfaces](https://ultimatecourses.com/blog/using-typescript-pick-mapped-type)
 - [Atomic state management(Jotai)](https://blog.hwahae.co.kr/all/tech/6099)
+- [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 
 ## Java
 
