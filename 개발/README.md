@@ -120,6 +120,7 @@
 - [Go vs Java - Go에서의 객체 지향](https://umi0410.github.io/blog/golang/go-vs-java-oop/)
 - [Go 언어를 써보고 싶지만 망설이는 당신에게](https://blog.goorm.io/hominlee/)
 - [Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
+- [Tracking Events for Specific Pods using Client-go's Watch Feature](https://copyprogramming.com/howto/client-go-watch-events-for-specific-pods)
 
 ## 플러터
 
