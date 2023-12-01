@@ -10,4 +10,5 @@
 
 - [발할라 라이징 MMORPG의 성능 최적화 사례 공유](https://www.slideshare.net/awskorea/8-mmorpg-300-games-on-aws-2022#12)
 - [Lockless 게임서버 설계와 구현](https://www.slideshare.net/noerror/lockless-12650474)
+- [Address and Port of the Game Server](https://www.alibabacloud.com/blog/agones-series-part-2-address-and-port-of-the-game-server_599427)
 
