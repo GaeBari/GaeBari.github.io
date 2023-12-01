@@ -37,6 +37,7 @@
 - [Redis 7 Internals: Client Sends a Command and Receives a Response](https://betterprogramming.pub/redis-internals-client-sends-a-command-and-receives-a-response-b06178d98825)
 - [Atomic 처리와 cache stampede 대책을 위해 Redis Lua script를 활용한 이야기](https://engineering.linecorp.com/ko/blog/atomic-cache-stampede-redis-lua-script)
 - [마이크로서비스 분산 트랜잭션 관리](https://waspro.tistory.com/735)
+- [MySQL 그날의 끝 시간(23:59:59) 저장 시 주의 할 점](https://blog.gangnamunni.com/post/mysql-endtime-timestamp/)
 
 ## 네트워크
 
