@@ -117,6 +117,7 @@
 - [golang의 pipeline pattern](https://medium.com/jotform-tech/pipeline-go-pipeline-pattern-in-golang-5a51e5d811a)
 - [Go vs Java - Go에서의 객체 지향](https://umi0410.github.io/blog/golang/go-vs-java-oop/)
 - [Go 언어를 써보고 싶지만 망설이는 당신에게](https://blog.goorm.io/hominlee/)
+- [Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
 
 ## 플러터
 
