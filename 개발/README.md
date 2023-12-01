@@ -91,6 +91,7 @@
 - [Spring Boot에서 S3에 파일을 업로드하는 세 가지 방법](https://techblog.woowahan.com/11392/)
 - [스프링 부트 서버 모니터링하는 법](https://yozm.wishket.com/magazine/detail/2280)
 - [Kotlin DSL + Spring REST Docs + MockMvc 적용기](https://kth990303.tistory.com/348)
+- [예제로 공략하는 코틀린 76제](https://kotlin-example.hatemogi.com/)
 
 ## Python
 
