@@ -137,5 +137,4 @@
 ## 언어 비교
 
 - [‘Node.js’ VS ‘Java Spring’](https://medium.com/naverfinancial/node-js-vs-java-spring-c4699565918e)
-- [왕초보 신입 개발자의 우당탕탕 이력서 작성기](https://techblog.woowahan.com/11998/)
 
