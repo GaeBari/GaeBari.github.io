@@ -72,4 +72,5 @@
 - [(번역) 우리들을 위한 디자인 패턴](https://soobing.github.io/cs/design-patterns-for-humans)
 - [개발자가 알아야 할 데이터 지향 설계란?](https://yozm.wishket.com/magazine/detail/2157)
 - [인자가 많은 메서드는 왜 나쁠까?](https://toss.tech/article/engineering-note-4)
+- [의존성 주입에 대한 오해와 진실](https://soojin.ro/blog/dependency-injection-basics)
 
