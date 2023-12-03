@@ -93,6 +93,7 @@
 - [Kotlin DSL + Spring REST Docs + MockMvc 적용기](https://kth990303.tistory.com/348)
 - [예제로 공략하는 코틀린 76제](https://kotlin-example.hatemogi.com/)
 - [Java Concurrency: CopyOnWrite](https://dzone.com/articles/java-concurrency-copy-on-write)
+- [카카오톡 Java App Server Refactoring 후기](https://tech.kakao.com/2023/01/19/kakaotalk-java-app-server-refactoring)
 
 ## Python
 
