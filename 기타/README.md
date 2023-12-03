@@ -46,6 +46,7 @@
 - [좋은 개발 리더가 되기 위해 고민해 본 것들](https://yozm.wishket.com/magazine/detail/2338/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
 - [왕초보 신입 개발자의 우당탕탕 이력서 작성기](https://techblog.woowahan.com/11998/)
 - [컴퓨팅 사고와 개발 실력 늘리는 공부법](https://yozm.wishket.com/magazine/detail/1950/)
+- [개발자에게 컴퓨터 과학 기초가 중요한 이유](https://f-lab.kr/blog/importance-of-computer-science)
 
 ## 미분류
 
