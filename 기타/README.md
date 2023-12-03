@@ -45,6 +45,7 @@
 - [우아한객체지향](https://youtu.be/dJ5C4qRqAgA?si=wexrI9bXup2MzhuM)
 - [좋은 개발 리더가 되기 위해 고민해 본 것들](https://yozm.wishket.com/magazine/detail/2338/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
 - [왕초보 신입 개발자의 우당탕탕 이력서 작성기](https://techblog.woowahan.com/11998/)
+- [컴퓨팅 사고와 개발 실력 늘리는 공부법](https://yozm.wishket.com/magazine/detail/1950/)
 
 ## 미분류
 
