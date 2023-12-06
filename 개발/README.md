@@ -94,6 +94,7 @@
 - [예제로 공략하는 코틀린 76제](https://kotlin-example.hatemogi.com/)
 - [Java Concurrency: CopyOnWrite](https://dzone.com/articles/java-concurrency-copy-on-write)
 - [카카오톡 Java App Server Refactoring 후기](https://tech.kakao.com/2023/01/19/kakaotalk-java-app-server-refactoring)
+- [Java JVM과 메모리 그리고 GC의 동작 과정 이해](https://brewagebear.github.io/fundamental-jvm-memory/#step-21-%EC%8A%A4%ED%83%9D-%EC%98%81%EC%97%AD)
 
 ## Python
 
