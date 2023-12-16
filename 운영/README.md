@@ -91,6 +91,7 @@
 - [서버리스 기반 컨텐츠 추천 서비스 만들기 - 이상현(Vingle)](https://youtu.be/-LZFJ6BpplE)
 - [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
 - [AWS를 활용한 확장성 높은 모바일 트레이딩 시스템 (MTS) 구축하기](https://aws.amazon.com/ko/blogs/tech/aws-mts-scalability-mobile-trading-system/)
+- [ConsoleMe: 스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
 
 ## Observability
 
