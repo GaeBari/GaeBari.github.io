@@ -100,4 +100,5 @@
 - [[인포그랩]GitLab 밋업으로 알아보는 Observability 이야기](https://insight.infograb.net/blog/2023/05/25/gitlab-korea-observability/)
 - [옵저버빌리티: 로그라고해서 다 같은 로그가 아니다](https://netmarble.engineering/observability-logging-a/)
 - [스프링 부트 서버 모니터링하는 법](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html)
+- [Monitoring Service Comparison – AWS vs Azure vs GCP](https://cloudstudio.com.au/2022/05/14/monitoring-service-aws-azure-gcp-part1/)
 
