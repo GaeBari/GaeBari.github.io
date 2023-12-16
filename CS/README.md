@@ -38,6 +38,7 @@
 - [Atomic 처리와 cache stampede 대책을 위해 Redis Lua script를 활용한 이야기](https://engineering.linecorp.com/ko/blog/atomic-cache-stampede-redis-lua-script)
 - [마이크로서비스 분산 트랜잭션 관리](https://waspro.tistory.com/735)
 - [MySQL 그날의 끝 시간(23:59:59) 저장 시 주의 할 점](https://blog.gangnamunni.com/post/mysql-endtime-timestamp/)
+- [REST 기반의 간단한 분산 트랜잭션 구현](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-1%ED%8E%B8/)
 
 ## 네트워크
 
