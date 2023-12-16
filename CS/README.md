@@ -50,6 +50,7 @@
 - [CLOSE_WAIT & TIME_WAIT 최종 분석](https://tech.kakao.com/2016/04/21/closewait-timewait/)
 - [네트워크 가상화란](https://www.redhat.com/ko/topics/virtualization/what-is-network-virtualization#:~:text=%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B0%80%EC%83%81%ED%99%94%EB%8A%94%20%ED%95%9C%EB%95%8C%20%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4,%EB%A5%BC%20%EB%8F%84%EC%9E%85%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9E%85%EB%8B%88%EB%8B%A4.)
 - [지수 백오프 알고리즘](https://velog.io/@diso592/%EC%A7%80%EC%88%98-%EB%B0%B1%EC%98%A4%ED%94%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98Exponential-Backoff)
+- [GraphQL 그리고 MSA](https://www.popit.kr/graphql-%ea%b7%b8%eb%a6%ac%ea%b3%a0-msa/)
 
 ## Test
 
