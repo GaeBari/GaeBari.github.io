@@ -47,6 +47,7 @@
 - [왕초보 신입 개발자의 우당탕탕 이력서 작성기](https://techblog.woowahan.com/11998/)
 - [컴퓨팅 사고와 개발 실력 늘리는 공부법](https://yozm.wishket.com/magazine/detail/1950/)
 - [개발자에게 컴퓨터 과학 기초가 중요한 이유](https://f-lab.kr/blog/importance-of-computer-science)
+- [이벤트 스토밍, 어떻게 하는 것이고 왜 해야 하나요?](https://blog.doctor-cha.com/event-storming-how-and-why)
 
 ## 미분류
 
