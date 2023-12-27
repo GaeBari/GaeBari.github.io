@@ -70,6 +70,7 @@
 - [개념 정리 - (7) 운영 체제 편](https://brunch.co.kr/@toughrogrammer/15)
 - [운영체제 시리즈 - Concurrency (3)](https://velog.io/@coral2cola/Concurrency-3-1bwd7c0w)
 - [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
+- [Why does my 2vCPU application run faster in a VM than in a container?](https://hwchiu.medium.com/why-does-my-2vcpu-application-run-faster-in-a-vm-than-in-a-container-6438ffaba245)
 
 ## 디자인패턴
 
