@@ -53,6 +53,7 @@
 - [네트워크 가상화란](https://www.redhat.com/ko/topics/virtualization/what-is-network-virtualization#:~:text=%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B0%80%EC%83%81%ED%99%94%EB%8A%94%20%ED%95%9C%EB%95%8C%20%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4,%EB%A5%BC%20%EB%8F%84%EC%9E%85%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9E%85%EB%8B%88%EB%8B%A4.)
 - [지수 백오프 알고리즘](https://velog.io/@diso592/%EC%A7%80%EC%88%98-%EB%B0%B1%EC%98%A4%ED%94%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98Exponential-Backoff)
 - [GraphQL 그리고 MSA](https://www.popit.kr/graphql-%ea%b7%b8%eb%a6%ac%ea%b3%a0-msa/)
+- [리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 2편](https://meetup.nhncloud.com/posts/54#:~:text=%EC%9C%84%EC%97%90%EC%84%9C+%EB%91%90+%EA%B0%92%EC%9D%80+%EA%B0%81%EA%B0%81+%EC%82%AC%EC%9A%A9%ED%95%A0+%ED%8F%AC%ED%8A%B8+%EB%B2%94%EC%9C%84%EC%9D%98,%EC%86%8C%EC%BC%93+%EC%88%98%EB%8A%94+%EC%9D%B4%EC%97%90+%EB%AF%B8%EC%B9%98%EC%A7%80+%EB%AA%BB%ED%95%A0+%EC%88%98+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)
 
 ## Test
 
