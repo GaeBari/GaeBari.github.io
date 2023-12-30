@@ -48,6 +48,7 @@
 - [컴퓨팅 사고와 개발 실력 늘리는 공부법](https://yozm.wishket.com/magazine/detail/1950/)
 - [개발자에게 컴퓨터 과학 기초가 중요한 이유](https://f-lab.kr/blog/importance-of-computer-science)
 - [이벤트 스토밍, 어떻게 하는 것이고 왜 해야 하나요?](https://blog.doctor-cha.com/event-storming-how-and-why)
+- [여기어때 서비스개발팀 2022년을 되돌아 보다](https://techblog.gccompany.co.kr/%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C%ED%8C%80-2022%EB%85%84%EC%9D%84-%EB%90%98%EB%8F%8C%EC%95%84-%EB%B3%B4%EB%8B%A4-b08ca7e8887e)
 
 ## 미분류
 
