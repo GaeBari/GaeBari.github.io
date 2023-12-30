@@ -62,6 +62,7 @@
 - [Jotai 동작원리 파헤치기](https://byjuun.com/post/159)
 - [의존성 관리자는 의존성을 관리하지 않습니다](https://velog.io/@surim014/dependency-managers-dont-manage-your-dependencies?utm_source=substack&utm_medium=email)
 - [KakaoStyle Jotai 레시피](https://devblog.kakaostyle.com/ko/2022-01-13-2-jotai-recipe/)
+- [데이터가 없을 때 200인가 404인가](https://techblog.yogiyo.co.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%97%86%EC%9D%84-%EB%95%8C-200%EC%9D%B8%EA%B0%80-404%EC%9D%B8%EA%B0%80-f1c8c39ca9df)
 
 ## Java
 
