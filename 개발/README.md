@@ -100,6 +100,7 @@
 - [Java JVM과 메모리 그리고 GC의 동작 과정 이해](https://brewagebear.github.io/fundamental-jvm-memory/#step-21-%EC%8A%A4%ED%83%9D-%EC%98%81%EC%97%AD)
 - [Stream API 병렬 데이터 처리하기](https://catsbi.oopy.io/0428be55-8c8d-40a2-923a-acc738d74a14)
 - [Coroutine 은 어떻게 스레드 작업을 최적화 하는가?](https://kotlinworld.com/139?category=973476)
+- [스프링에서 코틀린 스타일 테스트 코드 작성하기](https://techblog.woowahan.com/5825/)
 
 ## Python
 
