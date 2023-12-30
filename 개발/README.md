@@ -140,6 +140,7 @@
 ## 언어 기타
 
 - [Rust Project – Create an Authentication Server](https://www.freecodecamp.org/news/rust-tutorial-authentication-server/?ref=dailydev)
+- [파스칼(Pascal) 비난과 멸시, 그 원형을 찾아서...](https://saksin.tistory.com/1001)
 
 ## 언어 비교
 
