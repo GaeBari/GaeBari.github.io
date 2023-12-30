@@ -61,6 +61,7 @@
 - [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 - [Jotai 동작원리 파헤치기](https://byjuun.com/post/159)
 - [의존성 관리자는 의존성을 관리하지 않습니다](https://velog.io/@surim014/dependency-managers-dont-manage-your-dependencies?utm_source=substack&utm_medium=email)
+- [KakaoStyle Jotai 레시피](https://devblog.kakaostyle.com/ko/2022-01-13-2-jotai-recipe/)
 
 ## Java
 
