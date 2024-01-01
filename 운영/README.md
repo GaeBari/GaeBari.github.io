@@ -73,6 +73,7 @@
 - [MSA 환경에서 네트워크 예외를 잘 다루는 방법](https://tech.kakaopay.com/post/msa-transaction/)
 - [MSA 환경에서의 유연한 HTTP 클라이언트 설계 전략](https://tech.kakaopay.com/post/make-http-client-design-flexible/)
 - [2024년 쿠버네티스 표준 아키텍처](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2024)
+- [Argo-CD를 이용한 GitOps 시스템 구축](https://jennifersoft.com/ko/blog/tech/2023-08-30-jennifer-kubernetes-3/)
 
 ## AWS
 
