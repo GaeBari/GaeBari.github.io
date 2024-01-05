@@ -49,6 +49,7 @@
 - [개발자에게 컴퓨터 과학 기초가 중요한 이유](https://f-lab.kr/blog/importance-of-computer-science)
 - [이벤트 스토밍, 어떻게 하는 것이고 왜 해야 하나요?](https://blog.doctor-cha.com/event-storming-how-and-why)
 - [여기어때 서비스개발팀 2022년을 되돌아 보다](https://techblog.gccompany.co.kr/%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C%ED%8C%80-2022%EB%85%84%EC%9D%84-%EB%90%98%EB%8F%8C%EC%95%84-%EB%B3%B4%EB%8B%A4-b08ca7e8887e)
+- [[번역]더 이상 배우려 하지 않는 개발자 : Expert Beginner의 등장](https://medium.com/@jwyeom63/%EB%8D%94-%EC%9D%B4%EC%83%81-%EB%B0%B0%EC%9A%B0%EB%A0%A4-%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-expert-beginner%EC%9D%98-%EB%93%B1%EC%9E%A5-dd40c40aeedf)
 
 ## 미분류
 
