@@ -66,6 +66,7 @@
 - [Korean FE article 태그 모음](https://spicy-lace-142.notion.site/844cd73f347743609129bafc407068fe)
 - [Virtual DOM - Diffing 알고리즘을 구현하고 이해하기](https://devocean.sk.com/blog/techBoardDetail.do?page=&boardType=undefined&query=&ID=165601&searchData=&subIndex=)
 - [라프텔 로그인/회원가입 개선기](https://laftel.oopy.io/fae79aa5-07a3-4998-8c06-7e9bef69c25d)
+- [지속가능한 컴포넌트](https://www.youtube.com/watch?v=fR8tsJ2r7Eg)
 
 ## Java
 
