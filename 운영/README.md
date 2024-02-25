@@ -96,6 +96,7 @@
 - [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
 - [AWS를 활용한 확장성 높은 모바일 트레이딩 시스템 (MTS) 구축하기](https://aws.amazon.com/ko/blogs/tech/aws-mts-scalability-mobile-trading-system/)
 - [ConsoleMe: 스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
+- [Amazon DynamoDB 비용 최적화 방법 살펴보기](https://aws.amazon.com/ko/blogs/tech/how-to-optimize-amazon-dynamodb-costs/)
 
 ## Observability
 
