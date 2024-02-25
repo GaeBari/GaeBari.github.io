@@ -68,6 +68,7 @@
 - [라프텔 로그인/회원가입 개선기](https://laftel.oopy.io/fae79aa5-07a3-4998-8c06-7e9bef69c25d)
 - [지속가능한 컴포넌트](https://www.youtube.com/watch?v=fR8tsJ2r7Eg)
 - [리액트 쿼리 '잘' 사용해보자 - 네트워크 비용 감소 / UX 개선](https://heycoding.tistory.com/128)
+- [Javascript 동작원리 (Single thread, Event loop, Asynchronous)](https://medium.com/@vdongbin/javascript-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC-single-thread-event-loop-asynchronous-e47e07b24d1c)
 
 ## Java
 
