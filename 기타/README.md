@@ -67,6 +67,7 @@
 - [모델 서빙 최적화를 위한 프레임워크 선정과 서빙 성능 극대화하기](https://tech.kakaopay.com/post/model-serving-framework/)
 - [설레발 주도 개발](https://lazygyu.net/blog/hype_driven_development)
 - [Express.js Spam PRs Incident Highlights the Commoditization of Open Source Contributions](https://socket.dev/blog/express-js-spam-prs-commoditization-of-open-source)
+- [[카카오] 라이브채팅 플랫폼 구현기 1탄 : 개발 언어 및 기반기술 조사](https://kakaoentertainment-tech.tistory.com/109)
 
 ## Git
 
