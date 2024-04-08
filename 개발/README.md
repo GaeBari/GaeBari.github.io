@@ -110,6 +110,7 @@
 - [Stream API 병렬 데이터 처리하기](https://catsbi.oopy.io/0428be55-8c8d-40a2-923a-acc738d74a14)
 - [Coroutine 은 어떻게 스레드 작업을 최적화 하는가?](https://kotlinworld.com/139?category=973476)
 - [스프링에서 코틀린 스타일 테스트 코드 작성하기](https://techblog.woowahan.com/5825/)
+- [DTO-Free Java](https://medium.com/@bubu.tripathy/dto-free-java-ee70c43b5ad5)
 
 ## Python
 
