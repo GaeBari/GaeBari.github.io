@@ -71,6 +71,7 @@
 - [Javascript 동작원리 (Single thread, Event loop, Asynchronous)](https://medium.com/@vdongbin/javascript-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC-single-thread-event-loop-asynchronous-e47e07b24d1c)
 - [GitNation](https://portal.gitnation.org/)
 - [Typehero](https://typehero.dev/)
+- [토스가 꿈꾸는 React Native 기술의 미래](https://toss.tech/article/react-native-2024)
 
 ## Java
 
