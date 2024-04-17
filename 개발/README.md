@@ -121,6 +121,7 @@
 - [FastAPI Depends 톺아보기](https://rumbarum.oopy.io/post/how-fastapi-depends-work)
 - [ExceptionGroup and except\*(PEP-654) 파보기 Feat. TaskGroup](https://rumbarum.oopy.io/post/python-exception-group)
 - [Python Ray 사용법 - Python 병렬처리, 분산처리](https://zzsza.github.io/mlops/2021/01/03/python-ray/)
+- [Class의 연산자, 특수 메서드, 상속, 그리고 pydantic](https://devocean.sk.com/blog/techBoardDetail.do?ID=164774&boardType=techBlog)
 
 ## Go
 
